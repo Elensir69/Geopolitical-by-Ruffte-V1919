@@ -1536,6 +1536,17 @@
 		"requiredTech": "Vaccine"
 	},
 	{
+		"name": "Communism Camp",
+                "replaces": "Market",
+		"uniqueTo": "Italy",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+                "uniques": ["Provides [1] [Wine] <with [100]% chance>","Unsellable","[+2 Gold] from [Slave Labor Plantation] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Vaccine"
+	},
+	{
 		"name": "Colonial Dockyard",
 		"replaces": "Harbor",
 		"uniqueTo": "British Hong Kong",
