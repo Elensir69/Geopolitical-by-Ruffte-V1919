@@ -2004,9 +2004,9 @@
 		"cities": ["Veligrad","Warsaw","Riga","Nova Przystań","Minsk","Lviv","Chisinau","Krakow","Breslavia","Poznan","Zakopane","Gdynia","Lodz","Szczecin","Torun","Lublin","Kolobrezeg","Sopot"]
 	},
 {
-		"name": "Greece",
-		"leaderName": "King Otto",
-		"adjective": ["Greek"],
+		"name": "Eastern Roman Empire",
+		"leaderName": "Basileus Justinien III",
+		"adjective": ["Roman"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Supremacy",
 		
@@ -2025,10 +2025,12 @@
 		"outerColor": [45, 52, 117],
 		"innerColor": [197, 202, 252],
                 "favoredReligion": "Orthodox",
-		"uniqueName": "Greek Enlightenment",
+		"uniqueName": "Militia of the Empire",
 		"uniques": ["Non Middle Eastern",
-		"[+2 Science] from every [Natural Wonder]","[+20]% Production when constructing [Water] units [in all cities]"],
-		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+		"[+3 Faith] from every [Wonder]","[+100]% Production when constructing [Land] units [in all cities] <when at war>", "Nullifies Growth [in your cities] <when at war>",
+		"[+50]% Unhappiness from [Specialists] [in your cities]", "May choose [2] additional belief(s) of any type when [founding] a religion",
+		"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Constantinople", "Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
