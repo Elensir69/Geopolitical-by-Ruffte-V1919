@@ -2321,9 +2321,9 @@
         "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
     },
 {
-		"name": "Nejd",
+		"name": "Kindgom of Saudi Arabia",
 		"leaderName": "Abdul Rahman bin Faisal",
-		"adjective": ["Nejd"],
+		"adjective": ["Saudis"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Supremacy",
 
@@ -2341,7 +2341,8 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Hajj and Umrah Pilgrimages",
-		"uniques": ["[+20]% of excess happiness converted to [Faith]","[Faith] cost of purchasing [Great Scientist] units [-20]%","[Faith] cost of purchasing [Great Merchant] units [-20]%","[Faith] cost of purchasing [Great General] units [-20]%","May buy [Worker] units with [Faith] [in all cities]","[Faith] cost of purchasing [Worker] units [-30]%"],
+		"uniques": ["[+20]% of excess happiness converted to [Faith]","[Faith] cost of purchasing [Great Scientist] units [-20]%",
+		"May buy [Worker] units with [Faith] [in all cities]","[Faith] cost of purchasing [Worker] units [-30]%", "[+100]% [Oil] resource production", "[+1 Production] from every [Desert]"],
 		"cities": ["Riyadh","Medina","Damascus","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr"],
