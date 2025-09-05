@@ -1973,11 +1973,11 @@
 		"cities": ["Tashkent","Samarkand","Bukhara","Nukus","Fergana","Qarshi","Kokand","Margilan","Termez","Jizzakh","Angren","Chirchiq","Navoiy","Urgench","Shahrisabz"]
 	},
 {
-		"name": "Poland",
-		"leaderName": "Count Andrzej Zamoyski",
-		"adjective": ["Polish"],
-		"startBias": ["Mountain"],
-		"preferredVictoryType": "Supremacy",
+		"name": "Respublika Heptanarija",
+		"leaderName": "Kronavoce Maria Ière",
+		"adjective": ["Civis"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Space Race",
 		
 		"startIntroPart1": "",
 		
@@ -1993,11 +1993,13 @@
 				
 		"outerColor": [206, 57, 99],
 		"innerColor": [65, 29, 39],
-                "favoredReligion": "Orthodox",
-		"uniqueName": "Winged Hussars",
+                "favoredReligion": "Catholic",
+		"uniqueName": "Light of Maria",
 		"uniques": ["Non Middle Eastern",
-		"[+20]% Production when constructing [Light Cavalry] units [in all cities]", "[+1 Faith] from every [Mill]","[+1 Gold] from every [House]"],
-		"cities": ["Warsaw","Cracovia","Breslavia","Poznan","Zakopane","Gdynia","Lodz","Szczecin","Torun","Lublin","Kolobrezeg","Sopot"]
+		"[+50]% [Gold] from Trade Routes", "May not annex cities",
+		"[+1 Happiness] per every [20] [Gold]", "[+5 Production] from every specialist [in your cities]", "[+5 Science] from every specialist [in your cities]",
+		"[+1000]% Faith cost of generating Great Prophet equivalents", "[+30]% Great Person generation [in your cities]"],
+		"cities": ["Veligrad","Warsaw","Riga","Nova Przystań","Minsk","Lviv","Chisinau","Krakow","Breslavia","Poznan","Zakopane","Gdynia","Lodz","Szczecin","Torun","Lublin","Kolobrezeg","Sopot"]
 	},
 {
 		"name": "Greece",
