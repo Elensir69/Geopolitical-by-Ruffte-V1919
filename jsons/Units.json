@@ -3253,7 +3253,7 @@
 	},
         {
 		"name": "Volunteer",
-                "uniqueTo": "Norway",
+                "uniqueTo": "High Kingdom of the North",
 		"replaces": "Partisan",
                 "upgradesTo": "Halberdier",
                 "requiredTech": "Railway",
