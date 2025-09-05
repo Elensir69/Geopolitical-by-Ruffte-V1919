@@ -2508,6 +2508,18 @@
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Archaeology"
 	},
+		{
+		"name": "Universitas",
+    	"uniqueTo": "Respublika Heptanarija",
+		"replaces": "University",
+		"hurryCostModifier": 15,
+		"gold": 2,
+		"percentStatBonus": {"science": 40},
+		"specialistSlots": {"Scientist": 3},
+		"requiredBuilding": "Library",
+		"uniques": ["[+15 Science] from [City Center] tiles [in this city]"],
+		"requiredTech": "Archaeology"
+	},
 {
 		"name": "Observatory",
 		"maintenance": 0,
@@ -2594,6 +2606,19 @@
 		"specialistSlots": {"Engineer": 3},
 		"requiredBuilding": "Workshop",
 		"uniques": ["[+1 Production, +1 Gold] from [River] tiles [in this city]"],
+		"requiredTech": "Electricity"
+	},
+		{
+		"name": "Industries Souterrainnes",
+		"uniqueTo": "Respublika Heptanarija",
+        "replaces": "Factory",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"production": 7,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 3},
+		"requiredBuilding": "Workshop",
+		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in this city]"],
 		"requiredTech": "Electricity"
 	},
         {
@@ -2902,6 +2927,13 @@
 		"requiredTech": "Radio",
 		"uniques": ["[+1 Happiness] per [3] population [in all cities]"]
 	},
+	{
+		"name": "Veligrad",
+		"isWonder": true,
+		"culture": 4,
+		"requiredTech": "Radio",
+		"uniques": ["Population loss from nuclear attacks [-100]% [in this city]", "[+1 Production] per [2] population [in all cities]"]
+	},
 	//////// WW2
 
 	{
@@ -2924,8 +2956,15 @@
 		"isWonder": true,
 		"faith": 10,
 		"uniques": ["Gain an extra spy", "[+30]% spy effectiveness [in City-State cities]"],
-		"requiredTech": "Atomic Theory"
-	}
+		"requiredTech": "European Union"
+	},
+		{
+		"name": "Sciences Caverns",
+		"isWonder": true,
+		"culture": 4,
+		"requiredTech": "Atomic Theory",
+		"uniques": ["[+2 Science] per [2] population [in all cities]"]
+	},
 	{
 		"name": "Pentagon",
 		"isWonder": true,
