@@ -1835,7 +1835,7 @@
         },
         {
 		"name": "Ikhwan",
-		"uniqueTo":"Nejd",
+		"uniqueTo":"Kingdom of Saudi Arabia",
 		"replaces":"Rifleman",
         "upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Ballistics",
