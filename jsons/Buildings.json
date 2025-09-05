@@ -1379,7 +1379,7 @@
 	},
         {
 		"name": "Swizz Bank",
-                "uniqueTo": "Switzerland",
+                "uniqueTo": "Alps' Confederation",
                 "replaces": "Bank",
 		"gold": 4,
 		"specialistSlots": {"Merchant": 3},
@@ -2119,6 +2119,16 @@
 		"percentStatBonus": {"science": 50},
 		"uniques": ["Cost increases by [30] per owned city"],
 		"requiredTech": "Scientific Theory"
+	},
+	{
+		"name": "UELE",
+        "uniqueTo": "Alps' Confederation",
+		"isNationalWonder": true,
+		"gold": 10,
+		"uniques": ["Cost increases by [30] per owned city","When declaring friendship, both parties gain a [25]% boost to great person generation"],
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Swiss Bank",
+		"requiredTech": "Coexistency"
 	},
         {
 		"name": "Anatomy Laboratory",
