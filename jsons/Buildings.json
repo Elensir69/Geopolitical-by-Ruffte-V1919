@@ -1785,7 +1785,7 @@
 	{
 		"name": "Wahhabi Madrasa",
 		"replaces": "Library",
-		"uniqueTo": "Nejd",
+		"uniqueTo": "Kingdom of Saudi Arabia",
 		"hurryCostModifier": 25,
 		"science": 1,
 		"faith": 1,
@@ -2130,6 +2130,19 @@
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": 50},
 		"uniques": ["Cost increases by [30] per owned city"],
+		"requiredTech": "Scientific Theory"
+	},
+		{
+		"name": "Croissant-Rouge",
+        "uniqueTo": "Kingdom of Saudi Arabia",
+		"replace": "National College",
+		"isNationalWonder": true,
+		"science": 5,
+		"culture": 3,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Cost increases by [30] per owned city","When declaring friendship, both parties gain a [25]% boost to great person generation"],
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Wahhabi Madrasa",
 		"requiredTech": "Scientific Theory"
 	},
 	{
