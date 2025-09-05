@@ -251,7 +251,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[4] free [Sepoy] units appear <upon entering the [First World War]>","[+1 Production] from [Mine] tiles [in this city] <during a Golden Age>",
-			"Only available <in cities without a [Court - Russia - Persia]>","Only available <in cities without a [Court - Austria-Hungary - Persia]>",
+			"Only available <in cities without a [Court - Russia - Persia]>","Only available <in cities without a [Court - Hungary - Persia]>",
 			"Only available <for [Persia] Civilizations>"]
 	},
 	{
@@ -262,7 +262,7 @@
 			"Only available <for [British Raj] Civilizations>"]
 	},
 	{
-		"name": "Court - Austria-Hungary - Persia",
+		"name": "Court - Hungary - Persia",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Food] from every [Mill]","[+1 Food] per [3] population [in all cities]","[+1 Gold] per [8] population [in all cities]",
@@ -274,7 +274,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+24]% Production when constructing [Infantry] units [in all cities]",
-			"Only available <in cities without a [Court - British - Persia]>","Only available <in cities without a [Court - Austria-Hungary - Persia]>",
+			"Only available <in cities without a [Court - British - Persia]>","Only available <in cities without a [Court - Hungary - Persia]>",
 			"Only available <for [Persia] Civilizations>"]
 	},
 	{
@@ -302,7 +302,7 @@
 			"Only available <for [Afghanistan] Civilizations>"]
 	},
 	{
-		"name": "Court - Austria-Hungary - Ottoman",
+		"name": "Court - Hungary - Ottoman",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Food] from every [Mill]","[+1 Food] per [3] population [in all cities]","[+1 Gold] per [8] population [in all cities]",
@@ -314,7 +314,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Gold] per [5] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+3]% Production when constructing [All] units [in this city]",
-			"Only available <in cities without a [Court - Austria-Hungary - Ottoman]>","Only available <in cities without a [Court - German - Ottoman]>",
+			"Only available <in cities without a [Court - Hungary - Ottoman]>","Only available <in cities without a [Court - German - Ottoman]>",
 			"Only available <for [The Ottomans] Civilizations>"]
 	},
 	{
@@ -322,7 +322,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Free [Krupp Steel Cannon] appears <upon discovering [Mining] technology>","[-20]% maintenance costs <for [Land] units>",
-			"Only available <in cities without a [Court - French - Ottoman]>","Only available <in cities without a [Court - Austria-Hungary - Ottoman]>",
+			"Only available <in cities without a [Court - French - Ottoman]>","Only available <in cities without a [Court - Hungary - Ottoman]>",
 			"Only available <for [The Ottomans] Civilizations>"]
 	},
 	{
@@ -598,7 +598,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Gold] per [5] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+3]% Production when constructing [All] units [in this city]",
-			"Only available <in cities without a [Court - Russia - Bukhara]>","Only available <in cities without a [Court - Austria-Hungary - Bukhara]>",
+			"Only available <in cities without a [Court - Russia - Bukhara]>","Only available <in cities without a [Court - Hungary - Bukhara]>",
 			"Only available <for [Bukhara] Civilizations>"]
 	},
 	{
@@ -606,11 +606,11 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+24]% Production when constructing [Infantry] units [in all cities]",
-			"Only available <in cities without a [Court - French - Bukhara]>","Only available <in cities without a [Court - Austria-Hungary - Bukhara]>",
+			"Only available <in cities without a [Court - French - Bukhara]>","Only available <in cities without a [Court - Hungary - Bukhara]>",
 			"Only available <for [Bukhara] Civilizations>"]
 	},
 	{
-		"name": "Court - Austria-Hungary - Bukhara",
+		"name": "Court - Hungary - Bukhara",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Food] from every [Mill]","[+1 Food] per [3] population [in all cities]","[+1 Gold] per [8] population [in all cities]",
@@ -2582,6 +2582,20 @@
 		"requiredResource": "Coal",
 		"requiredTech": "Electricity"
 	},
+		{
+		"name": "Industrie du Paprika",
+		"uniqueTo": "Hungary",
+        "replaces": "Factory",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"food": 1,
+		"production": 5,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 3},
+		"requiredBuilding": "Worshop",
+		"uniques": ["[+1 Production, +1 Gold] from [River] tiles [in this city]"],
+		"requiredTech": "Electricity"
+	},
         {
 		"name": "Hospital",
 		"food": 5,
@@ -2903,6 +2917,13 @@
 		"isWonder": true,
 		"faith": 10,
 		"uniques": ["[+1 Happiness] per [2] population [in all cities]"],
+		"requiredTech": "Atomic Theory"
+	},
+	{
+		"name": "Panier de Budapest",
+		"isWonder": true,
+		"faith": 10,
+		"uniques": ["Gain an extra spy", "[+30]% spy effectiveness [in City-State cities]"],
 		"requiredTech": "Atomic Theory"
 	}
 	{
