@@ -2738,6 +2738,19 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Ballistics"
 	},
+	        {
+		"name": "Supercomplexe",
+                "uniqueTo": "United States of America",
+                "replaces": "Arsenal",
+		"cost": 300,
+		"cityStrength": 9,
+		"cityHealth": 30,
+		"hurryCostModifier": 25,
+		"gold": 3,
+		"requiredBuilding": "Great War Arsenal",
+		"requiredTech": "Artillery",
+		"uniques": ["New [Military] units start with [10] XP [in this city]","Destroyed when the city is captured", "[+30]% Production when constructing [Military] units [in this city]"]
+	},
         {
 		"name": "Hangar",
                 "maintenance": 2,
