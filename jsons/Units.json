@@ -2343,7 +2343,7 @@
 	},
         {
 		"name": "Aduanero",
-                "uniqueTo": "Spanish Empire",
+                "uniqueTo": "Iberic Federation",
                 "replaces": "Skrimisher",
                 "requiredTech": "Industrialization",
 		"obsoleteTech": "Dynamite",
@@ -2358,7 +2358,7 @@
         },
         {
 		"name": "Chapelgorris",
-                "uniqueTo": "Spanish Empire",
+                "uniqueTo": "Iberic Federation",
                 "replaces": "Grenadier",
                 "obsoleteTech": "Replaceable Parts",
                 "requiredTech": "Dynamite",
@@ -3512,6 +3512,19 @@
 		"requiredTech": "Arms Race",
 		"requiredResource": "Oil",
 		"uniques": ["[+15]% to Flank Attack bonuses","Limited to [4] per Civilization","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Imperium S-5",
+                "uniqueTo": "Iberic Federation",
+		"replaces": "Advanced Tank",
+		"unitType": "Armored",
+		"movement": 1,
+		"strength": 130,
+		"cost": 500,
+		"requiredTech": "Arms Race",
+		"requiredResource": "Oil",
+		"uniques": ["[+400]% Strength <vs cities>", "[-100]% Strength <vs [Air] units>","[+15]% to Flank Attack bonuses","Limited to [4] per Civilization","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
 {
