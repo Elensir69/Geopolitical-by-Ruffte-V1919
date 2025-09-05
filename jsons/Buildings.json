@@ -1559,6 +1559,17 @@
 		"requiredTech": "Vaccine"
 	},
 	{
+		"name": "Place des Mafias",
+        "replaces": "Market",
+		"uniqueTo": "Brasilian Empire",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+                "uniques": ["Provides [1] [Yerba Mate] <with [100]% chance>","Unsellable","[+2 Gold] from [Slave Labor Plantation] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Vaccine"
+	},
+	{
 		"name": "Colonial Dockyard",
 		"replaces": "Harbor",
 		"uniqueTo": "British Hong Kong",
@@ -2153,6 +2164,16 @@
 		"uniques": ["Cost increases by [30] per owned city","When declaring friendship, both parties gain a [25]% boost to great person generation"],
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Swiss Bank",
+		"requiredTech": "Coexistency"
+	},
+		{
+		"name": "Mafia Mondiale",
+        "uniqueTo": "Brasilian Empire",
+		"isNationalWonder": true,
+		"gold": 20,
+		"uniques": ["Cost increases by [30] per owned city"],
+		"percentStatBonus": {"gold": 40},
+		"requiredBuilding": "Place des Mafias",
 		"requiredTech": "Coexistency"
 	},
         {
