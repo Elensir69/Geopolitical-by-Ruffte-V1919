@@ -2795,7 +2795,7 @@
 		"uniqueName": "The Orthodox Scourge",
 		"uniques": ["Non Middle Eastern",
 		"[+20]% Natural religion spread [in your cities] <in cities following our religion>",
-		"[+200 Faith] <upon declaring friendship>",
+		"[+200 Faith] <upon entering a war with [all] Civilizations>",
 		"[+5 Production] in cities on [River] tiles <during a Golden Age>"
 		],
 		"cities": ["Budapest", "Debrecen", "Esztergom", "Székesfehérvár", "Györ", "Szeged", "Hajdúszoboszló", "Komádi", "Gödöllő", "Veszprém", "Nyíregyháza", "Miskolc", "Déva", "Nagyecsed", "Nagyvárad", "Nagybánya", "Kolozsvár", "Arad", "Szatmárnémeti", "Szolnok", "Nagymegyer", "Zselíz"
