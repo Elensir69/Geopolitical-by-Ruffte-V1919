@@ -2077,6 +2077,7 @@
 		"movement": 3,
 		"strength": 44,
 		"cost": 120,
+                "uniques": ["Prevents spreading of religion to the city it is next to","Can be purchased with [Faith] [in holy cities]", "Never appears as a Barbarian unit"],
 		"attackSound": "shot"
         },
         {
