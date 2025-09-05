@@ -2056,7 +2056,7 @@
         },
         {
 		"name": "Magyar Hussar",
-                "uniqueTo": "Austria Hungary",
+                "uniqueTo": "Hungary",
                 "replaces": "Hussar",
                 "obsoleteTech": "Replaceable Parts",
                 "requiredTech": "Military Science",
@@ -2068,8 +2068,8 @@
 		"attackSound": "horse"
         },
         {
-		"name": "Austrian Mannlicher",
-                "uniqueTo": "Austria Hungary",
+		"name": "Garde de Grenat",
+                "uniqueTo": "Hungary",
                 "replaces": "Great War Infantry",
                 "obsoleteTech": "Plastics",
                 "requiredTech": "Ballistics",
