@@ -2528,7 +2528,7 @@
 		"percentStatBonus": {"science": 40},
 		"specialistSlots": {"Scientist": 3},
 		"requiredBuilding": "Library",
-		"uniques": ["[+15 Science] from [City Center] tiles [in this city]"],
+		"uniques": ["[+15 Science] from [City center] tiles [in this city]"],
 		"requiredTech": "Archaeology"
 	},
 {
