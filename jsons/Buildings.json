@@ -2592,7 +2592,7 @@
 		"production": 5,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 3},
-		"requiredBuilding": "Worshop",
+		"requiredBuilding": "Workshop",
 		"uniques": ["[+1 Production, +1 Gold] from [River] tiles [in this city]"],
 		"requiredTech": "Electricity"
 	},
