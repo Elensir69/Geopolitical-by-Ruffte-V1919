@@ -3281,7 +3281,7 @@
         },
         {
 		"name": "Rebel Raider",
-                "uniqueTo": "Greece",
+                "uniqueTo": "Eastern Roman Empire",
 		"replaces": "Skrimisher",
                 "upgradesTo": "Grenadier",
                 "requiredTech": "Industrialization",
@@ -3783,6 +3783,30 @@
 	"strength": 40,
 	"cost": 150,
 			 "uniques": ["[+40]% to Flank Attack bonuses","Never appears as a Barbarian unit"],
+	"attackSound": "shot"
+	},
+	{
+	"name": "Garde Varègue",
+	"uniqueTo": "Eastern Roman Empire",
+	"replaces": "Rifleman",
+	"requiredTech": "Replaceable Parts",
+	"unitType": "Infantry",
+	"movement": 2,
+	"strength": 60,
+	"cost": 150,
+			 "uniques": ["[+40]% to Flank Attack bonuses","Never appears as a Barbarian unit", "Limited to [4] per Civilization"],
+	"attackSound": "shot"
+	},
+	{
+	"name": "Milice Impériales",
+	"uniqueTo": "Eastern Roman Empire",
+	"replaces": "Great War Infantry",
+	"requiredTech": "Ballistics",
+	"unitType": "Infantry",
+	"movement": 2,
+	"strength": 40,
+	"cost": 50,
+			 "uniques": ["[+20]% to Flank Attack bonuses","Never appears as a Barbarian unit"],
 	"attackSound": "shot"
 	},
 {
