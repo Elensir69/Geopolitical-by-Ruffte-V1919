@@ -894,6 +894,20 @@
 		"cost": 230,
 		"attackSound": "shot"
         },
+	    {
+		"name": "Garde Hussard",
+			    "uniqueTo": "Respublika Heptanarija",
+				"replaces": "Special Forces",
+                "upgradesTo": "Guerrilla Fighter",
+                "obsoleteTech": "Vietnam War",
+                "requiredTech": "SALT Agreements",
+		"unitType": "Infantry",
+                "uniques": ["Invisible to non-adjacent units", "Can see invisible [Civilian] units", "Never appears as a Barbarian unit"],
+		"movement": 2,
+		"strength": 64,
+		"cost": 230,
+		"attackSound": "shot"
+        },
         {
 		"name": "Guerrilla Fighter",
                 "upgradesTo": "AK47",
@@ -2543,7 +2557,7 @@
         },
         {
 		"name": "Winged Hussar",
-                "uniqueTo": "Poland",
+                "uniqueTo": "Respublika Heptanarija",
                 "replaces": "Hussar",
                 "upgradesTo": "Cavalry",
                 "obsoleteTech": "Replaceable Parts",
@@ -3206,8 +3220,8 @@
 		"attackSound": "metalhit"
         },
         {
-		"name": "Polish Legion",
-                "uniqueTo": "Poland",
+		"name": "Garde Souterraine",
+                "uniqueTo": "Respublika Heptanarija",
 		"replaces": "Grenadier",
                 "upgradesTo": "Rifleman",
                 "obsoleteTech": "Replaceable Parts",
