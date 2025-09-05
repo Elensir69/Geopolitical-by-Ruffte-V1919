@@ -2770,9 +2770,9 @@
                             "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"],
 	},
 {
-		"name": "Austria Hungary",
-		"leaderName": "Archduke Franz Ferdinand",
-		"adjective": ["Austrian Hungarian"],
+		"name": "Hungary",
+		"leaderName": "King Fülöp Ier",
+		"adjective": ["Hungarian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Supremacy",
 
@@ -2792,13 +2792,13 @@
         "innerColor": [255,255,255],
 
 		"favoredReligion": "Catholic",
-		"uniqueName": "Double Monarchy",
+		"uniqueName": "The Orthodox Scourge",
 		"uniques": ["Non Middle Eastern",
-		"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
-		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
-			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
-			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
-			"Kapfenberg", "Hallein", "Bischofshofen", "Waidhofen", "Saalbach", "Lienz", "Steyr"
+		"[+20]% Natural religion spread [in your cities] <in cities following our religion>",
+		"[+200 Faith] <upon declaring friendship>",
+		"[+5 Producton] in cities on [River] tiles <during a Golden Age>"
+		],
+		"cities": ["Budapest", "Debrecen", "Esztergom", "Székesfehérvár", "Györ", "Szeged", "Hajdúszoboszló", "Komádi", "Gödöllő", "Veszprém", "Nyíregyháza", "Miskolc", "Déva", "Nagyecsed", "Nagyvárad", "Nagybánya", "Kolozsvár", "Arad", "Szatmárnémeti", "Szolnok", "Nagymegyer", "Zselíz"
 		],
         "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
     },
