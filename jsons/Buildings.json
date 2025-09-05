@@ -2135,7 +2135,7 @@
 		{
 		"name": "Croissant-Rouge",
         "uniqueTo": "Kingdom of Saudi Arabia",
-		"replace": "National College",
+		"replaces": "National College",
 		"isNationalWonder": true,
 		"science": 5,
 		"culture": 3,
