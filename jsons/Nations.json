@@ -3044,7 +3044,7 @@
 		"May not annex cities", "[+200]% maintenance costs", "[5] free [Great War Infantry] units appear <upon entering a war with [all] Civilizations> <during the [First World War]>",
 		"[5] free [Bomber] units appear <upon entering a war with [all] Civilizations> <during the [Second World War]>",
 		"[5] free [M48 Patton] units appear <upon entering a war with [all] Civilizations> <during the [Cold War]>",
-		"[5] free [USS Nimitz] units appear <upon entering a war with [all] Civilizations> <during the [Post Cold War]>", "[+2]% [Gold] [in capital] <for every remaining [City-State] Civilizations>",
+		"[5] free [USS Nimitz] units appear <upon entering a war with [all] Civilizations> <during the [Post Cold War]>", "[+2]% [Gold] [in capital] <Remaining [City-State] Civilizations>",
 		"[+300]% Unhappiness from [Population] [in your cities] <upon entering a war with [all] Civilizations> <for [2] turns>",
 		"[+50]% Unhappiness from [Population] [in your cities] <when at war>"], 
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
