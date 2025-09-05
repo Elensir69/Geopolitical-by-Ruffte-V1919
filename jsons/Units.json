@@ -326,6 +326,24 @@
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
+		{
+		"name": "Great General of Iberia",
+			"uniqueTo": "Iberic Federation",
+        "replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+30]% Strength bonus for [Military] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+			"May enter foreign tiles without open borders", "Prevents spreading of religion to the city it is next to",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+		"religiousStrength": 1000
+	},
 	{
 		"name": "Massachusetts Regiment",
 		"uniqueTo": "United States of America",
