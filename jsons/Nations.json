@@ -1970,7 +1970,7 @@
                 "favoredReligion": "Islam",
 		"uniqueName": "Panislamism Way",
 		"uniques": ["[+20]% Production when constructing [Faith] buildings [in all cities]","Religion naturally spreads to cities [5] tiles away",
-			"When spreading religion to a city, gain [200] times the amount of followers of other religions as [Faith]", "[+100]% XP gained from combat <when fighting in [Friendly Land] tiles>]",
+			"When spreading religion to a city, gain [200] times the amount of followers of other religions as [Faith]", "Resting point for Influence with City-States following this religion [40]",
 			"[-20]% [Gold] [in your cities] <when fighting in [Friendly Land] tiles>", "Free Great Person <upon declaring friendship>"],
 		"cities": ["Astana","Tashkent","Samarkand","Bukhara","Nukus","Fergana","Qarshi","Kokand","Margilan","Termez","Jizzakh","Angren","Chirchiq","Navoiy","Urgench","Shahrisabz"]
 	},
