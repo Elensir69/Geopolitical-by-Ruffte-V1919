@@ -2771,7 +2771,7 @@
 	},
 {
 		"name": "Hungary",
-		"leaderName": "King Fülöp Ier",
+		"leaderName": "Király Fülöp Ier",
 		"adjective": ["Hungarian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Supremacy",
@@ -2800,7 +2800,7 @@
 		],
 		"cities": ["Budapest", "Debrecen", "Esztergom", "Székesfehérvár", "Györ", "Szeged", "Hajdúszoboszló", "Komádi", "Gödöllő", "Veszprém", "Nyíregyháza", "Miskolc", "Déva", "Nagyecsed", "Nagyvárad", "Nagybánya", "Kolozsvár", "Arad", "Szatmárnémeti", "Szolnok", "Nagymegyer", "Zselíz"
 		],
-        "spyNames": ["Ferdinand", "Johanna", "Franz-Josef", "Astrid", "Anna", "Hubert", "Alois", "Natter", "Georg", "Arnold"]
+        "spyNames": ["Cseresznye", "Alma", "Szilva", "Körte", "Barack", "Őszibarack", "Narancs", "Mangó", "Füge", "Dinnye"]
     },
 {
 		"name": "Imperial China",
