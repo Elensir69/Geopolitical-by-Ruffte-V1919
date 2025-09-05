@@ -1388,6 +1388,18 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Electricity"
 	},
+	        {
+		"name": "Siège Social",
+                "uniqueTo": "High Kingdom of the North",
+                "replaces": "Bank",
+		"gold": 4,
+		"specialistSlots": {"Merchant": 3},
+		"greatPersonPoints": {"Great Merchant": 5},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Electricity"
+	},
         {
 		"name": "Floating Market",
                 "uniqueTo": "Siam Kingdom",
@@ -1415,7 +1427,7 @@
 	},
         {
 		"name": "Stave Church",
-                "uniqueTo": "Norway",
+                "uniqueTo": "High Kingdom of the North",
                 "replaces": "Temple",
 		"faith": 2,
                 "culture": 2,
