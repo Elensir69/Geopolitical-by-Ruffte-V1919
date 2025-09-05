@@ -1378,7 +1378,7 @@
 		"requiredTech": "Electricity"
 	},
         {
-		"name": "Swizz Bank",
+		"name": "Swiss Bank",
                 "uniqueTo": "Alps' Confederation",
                 "replaces": "Bank",
 		"gold": 4,
