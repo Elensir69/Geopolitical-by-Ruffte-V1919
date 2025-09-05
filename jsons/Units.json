@@ -2321,7 +2321,7 @@
 	},
         {
 		"name": "Fasci di Combattimento",
-                "uniqueTo": "Italian Empire",
+                "uniqueTo": "Italy",
                 "replaces": "Anti-Tank Gun",
                 "requiredTech": "Plastics",
 		"unitType": "Artillery",
@@ -3323,7 +3323,7 @@
         },
         {
 		"name": "Alpino",
-                "uniqueTo": "Italian Empire",
+                "uniqueTo": "Italy",
 		"replaces": "Skrimisher",
                 "upgradesTo": "Grenadier",
                 "requiredTech": "Industrialization",
