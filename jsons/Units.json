@@ -1456,6 +1456,22 @@
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "PZL. P.37",
+		"unitType": "Fighter",
+		"uniqueTo": "Respublika Heptanarija",
+		"replaces": "Advanced Fighter",
+		"movement": 1,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 12,
+		"interceptRange": 12,
+		"cost": 400,
+		"requiredTech": "Korea War",
+		"requiredResource": "Oil",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun"
+	},
         {
 		"name": "Jet Fighter",
 		"unitType": "Fighter",
