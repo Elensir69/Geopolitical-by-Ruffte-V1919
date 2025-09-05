@@ -2037,9 +2037,9 @@
 			"Patras","Lamia","Nafplion","Apolyton"],
 	},
 {
-		"name": "Norway",
+		"name": "High Kingdom of the North",
 		"leaderName": "King Oscar II",
-		"adjective": ["Nordish"],
+		"adjective": ["Northerners"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Supremacy",
 		
@@ -2060,7 +2060,10 @@
                 "favoredReligion": "Orthodox",
 		"uniqueName": "Nordic Resilence",
 		"uniques": ["Non Middle Eastern",
-		"[+10]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>","[+3]% Strength <when fighting in [Coast] tiles>"],
+		"[+10]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>","[+10]% Strength <when fighting in [Coast] tiles>",
+		"Enables conversion of city production to [Gold]", "Production to [Gold] conversion in cities changed by [+50]%", "[+200]% Gold from Great Merchant trade missions",
+		"May buy [Great Merchant] units for [100] [Gold] [in capital] at an increasing price ([+20])", "[-40]% [Production] [in your cities] <after turn number [30]>",
+			"[-40]% [Gold] [in your cities] <after turn number [30]>", "[+25]% Production when constructing [Water] units [in all cities]"],
 		"cities": ["Nidaros","Avaldsnes","Bergen","Bjarkøy","Brattahlíð","Drammen","Frosta","Hamar","Hundorp","Karmøy","Kristiansand",
 			"Kristiansund","Kvitsøy","Moster","Namsos","Oslo","Reykjavik","Ringerike","Sandnæs","Sarpsborg","Skedsmo",
 			"Skien","Sogndal","Stange","Stavanger","Stiklestad","Tjøtta","Tromsø","Verdal","Vinland","Alesund"]
