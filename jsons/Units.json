@@ -10,6 +10,17 @@
         "uniques": ["All adjacent units heal [+20] HP when healing","Never appears as a Barbarian unit"],
 		"cost": 220
         },
+	{
+		"name": "Red Crescent Doctor",
+		"uniqueTo": "Kingdom of Saudi Arabia",
+		"replaces": "Medic",
+        "obsoleteTech": "Plastics",
+        "requiredTech": "Ballistics",
+		"unitType": "Civilian",
+		"movement": 3,
+        "uniques": ["All adjacent units heal [+30] HP when healing","Never appears as a Barbarian unit"],
+		"cost": 220
+        },
     {
 		"name": "Gurab",
 		"uniqueTo": "Maratha",
