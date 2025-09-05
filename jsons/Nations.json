@@ -3019,9 +3019,9 @@
     },
 {
 		"name": "United States of America",
-		"leaderName": "Abraham Lincoln",
+		"leaderName": "President Lindbergh",
 		"adjective": ["United States of America"],
-		"preferredVictoryType": "Supremacy",
+		"preferredVictoryType": "Diplomatic",
 
         "startIntroPart1": "",
         "startIntroPart2": "",
@@ -3038,15 +3038,15 @@
         "innerColor": [164, 252, 191],
 
         "favoredReligion": "Baptist",
-		"uniqueName": "Emancipation Proclamation",
-		"uniqueText": "
-		[+30]% [Production] from every [House], [+20]% [Production] from every [Mill], [-3]% [Happiness] from every [Slave Labor Plantation], [Gold] cost of purchasing [Slave] units [+200]%
-
-Nixon Bureaucratic Reforms
-[+20]% [Science] [in all cities] starting from the [Cold War], [+20]% [Gold] [in all cities] starting from the [Cold War]",
+		"uniqueName": "Demain GUERRE",
 		"uniques": ["Non Middle Eastern",
-		"[+30]% [Production] from every [House]","[+20]% [Production] from every [Mill]","[-3]% [Happiness] from every [Slave Labor Plantation]", "[Gold] cost of purchasing [Slave] units [+200]%",
-	"[+20]% [Science] [in all cities] <starting from the [Cold War]>","[+20]% [Gold] [in all cities] <starting from the [Cold War]>"], 
+		"Gifts of Gold to City-States generate [50]% more Influence", "City-State territory always counts as friendly territory", "Allied City-States will occasionally gift Great People",
+		"May not annex cities", "[+100]% maintenance costs", "[5] free [Great War Infantry] units appear <upon entering a war with [all] Civilizations> <during the [First World War]>",
+		"[5] free [Bomber] units appear <upon entering a war with [all] Civilizations> <during the [Second World War]>",
+		"[5] free [M48 Patton] units appear <upon entering a war with [all] Civilizations> <during the [Cold War]>",
+		"[5] free [USS Nimitz] units appear <upon entering a war with [all] Civilizations> <during the [Post Cold War]>", "[+2]% [Gold] [in capital] <for every [City-States]>",
+		"[+300]% Unhappiness from [Population] [in your cities] <upon entering a war with [all] Civilizations> <for [2] turns>",
+		"[+50]% Unhappiness from [Population] [in your cities] <when at war>"], 
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
