@@ -131,7 +131,7 @@
         },
 	{
 		"name": "Jigit",
-		"uniqueTo": "Uzbekistan",
+		"uniqueTo": "Turkestan",
         "replaces": "Hussar",
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Replaceable Parts",
@@ -144,15 +144,15 @@
 		"attackSound": "horse"
         },
 	{
-		"name": "Shagird Pisha",
-		"uniqueTo": "Uzbekistan",
+		"name": "Cavalier d'Allah",
+		"uniqueTo": "Turkestan",
         "replaces": "Cuirassier",
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Replaceable Parts",
         "requiredTech": "Novel",
 		"unitType": "Heavy Cavalry",
 		"movement": 4,
-		"strength": 27,
+		"strength": 32,
 		"cost": 140, 
                 "uniques": ["[-10]% Strength <vs [Light Cavalry] units>","[-10]% Strength <vs [Camel] units>","Blast radius [2]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
@@ -314,6 +314,19 @@
 			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
 			"Takes your religion over the one in their birth city"],
 		"movement": 2,
+		"religiousStrength": 1000
+	},
+	{
+		"name": "Imam du Turkestan",
+		"unitType": "Civilian",
+		"uniqueTo": "Turkestan",
+		"uniques": [
+            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"May enter foreign tiles without open borders", "[-1] Sight",
+			"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"Takes your religion over the one in their birth city"],
+		"movement": 2,
+		"cost": 100
 		"religiousStrength": 1000
 	},
 	{
