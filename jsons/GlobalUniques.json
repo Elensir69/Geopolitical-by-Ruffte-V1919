@@ -179,9 +179,9 @@
         "[-25]% [Science] [in puppeted cities]",
         "[-25]% [Culture] [in puppeted cities]",
 
-        "[+30]% [Food] [[in all cities connected to capital]]",
-        "[+30]% [Production] [[in all cities connected to capital]]",
-        "[-30]% [Production] [in all cities]",
+        "[+15]% [Food] [[in all cities connected to capital]]",
+        "[+15]% [Production] [[in all cities connected to capital]]",
+        "[-10]% [Production] [in all cities]",
         // something something unit supply
 
         // Event Focus
