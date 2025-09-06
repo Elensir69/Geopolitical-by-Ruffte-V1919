@@ -816,7 +816,7 @@ BuildingIcons/Court - Russia - Uzbek
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Russian Empire
+NationIcons/Russian National Forces
   rotate: false
   xy: 852, 264
   size: 100, 100
@@ -1124,7 +1124,7 @@ NationIcons/Ashanti Empire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Austria Hungary
+NationIcons/Hungary
   rotate: false
   xy: 1376, 1452
   size: 100, 100
@@ -2635,7 +2635,7 @@ BuildingIcons/Immigrant Colony - Polish
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Poland
+NationIcons/Respublika Heptanarija
   rotate: false
   xy: 112, 328
   size: 100, 100
@@ -3377,7 +3377,7 @@ NationIcons/North Korea
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Norway
+NationIcons/High Kingdom of the North
   rotate: false
   xy: 1516, 328
   size: 100, 100
@@ -5435,6 +5435,13 @@ NationIcons/South Korea
   offset: 0, 0
   index: -1
 NationIcons/Soviet Union
+  rotate: false
+  xy: 436, 1079
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Leningrad Commune
   rotate: false
   xy: 436, 1079
   size: 100, 100
