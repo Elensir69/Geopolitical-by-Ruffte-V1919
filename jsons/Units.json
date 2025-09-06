@@ -2392,7 +2392,7 @@
 		"attackSound": "shot"
         },
         {
-		"name": "Cantonist",
+		"name": "Nationalist Cantonist",
                 "uniqueTo": "Russian National Forces",
                 "replaces": "Line Infantry",
                 "requiredTech": "Rifling",
@@ -2405,7 +2405,7 @@
 		"attackSound": "shot"
         },
 	        {
-		"name": "Cantonist",
+		"name": "Red Cantonist",
                 "uniqueTo": "Leningrad Commune",
                 "replaces": "Line Infantry",
                 "requiredTech": "Rifling",
@@ -2431,7 +2431,7 @@
 		"attackSound": "horse"
         },
 	    {
-		"name": "Cossack",
+		"name": "Great Cossack",
                 "uniqueTo": "Russian National Forces",
                 "replaces": "Hussar",
                 "obsoleteTech": "Replaceable Parts",
