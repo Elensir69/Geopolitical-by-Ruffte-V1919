@@ -961,6 +961,20 @@
 		"cost": 260,
 		"attackSound": "shot"
         },
+	    {
+		"name": "Red Fighter",
+				"uniqueTo": "Leningrad Commune",
+				"replaces": "Guerilla Fighter",
+                "upgradesTo": "AK47",
+                "obsoleteTech": "Afganistan/Irak Wars",
+                "requiredTech": "Vietnam War",
+		"unitType": "Infantry",
+                "uniques": ["[+20]% Strength <vs [Barbarian] units>", "Never appears as a Barbarian unit"],
+		"movement": 3,
+		"strength": 75,
+		"cost": 260,
+		"attackSound": "shot"
+        },
         {
 		"name": "River Patrol",
                 "upgradesTo": "M16 Infantry",
@@ -2344,7 +2358,33 @@
         },
         {
 		"name": "Cantonist",
-                "uniqueTo": "Russian Empire",
+                "uniqueTo": "Russia",
+                "replaces": "Line Infantry",
+                "requiredTech": "Rifling",
+		"obsoleteTech": "Military Science",
+		"unitType": "Infantry",
+		"movement": 2.5,
+		"strength": 11,
+		"cost": 44,
+                "uniques": ["[+10]% Strength <when fighting in [Tundra] tiles> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+        },
+        {
+		"name": "Cantonist",
+                "uniqueTo": "Russian National Forces",
+                "replaces": "Line Infantry",
+                "requiredTech": "Rifling",
+		"obsoleteTech": "Military Science",
+		"unitType": "Infantry",
+		"movement": 2.5,
+		"strength": 11,
+		"cost": 44,
+                "uniques": ["[+10]% Strength <when fighting in [Tundra] tiles> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+        },
+	        {
+		"name": "Cantonist",
+                "uniqueTo": "Leningrad Commune",
                 "replaces": "Line Infantry",
                 "requiredTech": "Rifling",
 		"obsoleteTech": "Military Science",
@@ -2357,7 +2397,20 @@
         },
         {
 		"name": "Cossack",
-                "uniqueTo": "Russian Empire",
+                "uniqueTo": "Russia",
+                "replaces": "Hussar",
+                "obsoleteTech": "Replaceable Parts",
+                "requiredTech": "Military Science",
+		"unitType": "Heavy Cavalry",
+		"movement": 4,
+		"strength": 19,
+		"cost": 60, 
+                "uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+        },
+	    {
+		"name": "Cossack",
+                "uniqueTo": "Russian National Forces",
                 "replaces": "Hussar",
                 "obsoleteTech": "Replaceable Parts",
                 "requiredTech": "Military Science",
@@ -2601,6 +2654,20 @@
         {
 		"name": "Besa Warrior",
                 "uniqueTo": "Albania",
+                "replaces": "Great War Machinegun",
+				"upgradesTo": "Command Machinegun",
+                "requiredTech": "Combustion",
+                "obsoleteTech": "Combined Arms",
+		"unitType": "Infantry",
+		"movement": 3,
+		"strength": 23,
+                "rangedStrength": 43,
+		"cost": 220,
+		"attackSound": "shot"
+        },
+	        {
+		"name": "Militia of RUssia",
+                "uniqueTo": "Russian National Forces",
                 "replaces": "Great War Machinegun",
 				"upgradesTo": "Command Machinegun",
                 "requiredTech": "Combustion",
