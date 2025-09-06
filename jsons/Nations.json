@@ -2061,7 +2061,7 @@
 		"uniqueName": "Nordic Resilence",
 		"uniques": ["Non Middle Eastern",
 		"[+10]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>","[+10]% Strength <when fighting in [Coast] tiles>",
-		"Enables conversion of city production to [Gold]", "Production to [Gold] conversion in cities changed by [+50]%", "[+200]% Gold from Great Merchant trade missions",
+		"Enables conversion of city production to [Gold]", "Production to [Gold] conversion in cities changed by [+50]%", "[+250]% Gold from Great Merchant trade missions",
 		"May buy [Great Merchant] units for [100] [Gold] [in capital] at an increasing price ([+20])", "[-40]% [Production] [in your cities] <after turn number [30]>",
 			"[-40]% [Gold] [in your cities] <after turn number [30]>", "[+60]% Production when constructing [Water] units [in all cities]", "[-33]% growth [in your cities]"],
 		"cities": ["Nidaros","Avaldsnes","Bergen","Bjarkøy","Brattahlíð","Drammen","Frosta","Hamar","Hundorp","Karmøy","Kristiansand",
