@@ -1249,7 +1249,7 @@
 	},
         {
 		"name": "Consulate",
-                "uniqueTo": "Imperial China",
+                "uniqueTo": "Nationalist China",
                 "replaces": "Courthouse",
                 "culture": 4,
 		"hurryCostModifier": 50,
