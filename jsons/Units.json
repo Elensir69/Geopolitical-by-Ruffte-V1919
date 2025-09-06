@@ -964,7 +964,7 @@
 	    {
 		"name": "Red Fighter",
 				"uniqueTo": "Leningrad Commune",
-				"replaces": "Guerilla Fighter",
+				"replaces": "Guerrilla Fighter",
                 "upgradesTo": "AK47",
                 "obsoleteTech": "Afganistan/Irak Wars",
                 "requiredTech": "Vietnam War",
