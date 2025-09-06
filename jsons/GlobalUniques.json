@@ -173,14 +173,14 @@
 
         // "[+10]% growth [in all cities] <during We Love The King Day>",
 
-        "Nullifies [Production] [in resisting cities]", "Nullifies [Food] [in resisting cities]", "Nullifies [Gold] [in resisting cities]", "Nullifies [Science] [in resisting cities]",
-        "Nullifies [Culture] [in resisting cities]", "Nullifies [Happiness] [in resisting cities]", "Nullifies [Faith] [in resisting cities]",
+        "Nullifies [Production] <in [Resisting] cities>", "Nullifies [Food] <in [Resisting] cities>", "Nullifies [Gold] <in [Resisting] cities>", "Nullifies [Science] <in [Resisting] cities>",
+        "Nullifies [Culture] <in [Resisting] cities>", "Nullifies [Happiness] <in [Resisting] cities>", "Nullifies [Faith] <in [Resisting] cities>",
 
         "[-25]% [Science] [in puppeted cities]",
         "[-25]% [Culture] [in puppeted cities]",
 
-        "[+15]% [Food] [[in all cities connected to capital]]",
-        "[+15]% [Production] [[in all cities connected to capital]]",
+        "[+15]% [Food] [in all cities connected to capital]",
+        "[+15]% [Production] [in all cities connected to capital]",
         "[-10]% [Production] [in all cities]",
         // something something unit supply
 
