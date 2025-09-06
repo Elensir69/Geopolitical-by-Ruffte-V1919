@@ -1400,6 +1400,18 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Electricity"
 	},
+		        {
+		"name": "Vodkaprom",
+                "uniqueTo": "Russia",
+                "replaces": "Bank",
+                "uniques": ["Provides [2] [Wine] <with [100]% chance>","Unsellable","[+2 Gold] from [Slave Labor Plantation] tiles [in this city]"],
+		"specialistSlots": {"Merchant": 3},
+		"greatPersonPoints": {"Great Merchant": 7},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": -25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Electricity"
+	},
         {
 		"name": "Floating Market",
                 "uniqueTo": "Siam Kingdom",
