@@ -173,13 +173,14 @@
 
         // "[+10]% growth [in all cities] <during We Love The King Day>",
 
-        // "Nullifies All Yield <while is in resistance>",
+        "Nullifies All Yield <while is in resistance>",
 
-        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
-        // "[-25]% [Culture] [in pupetted cities]"
+        "[-25]% [Science] [in pupetted cities]",
+        "[-25]% [Culture] [in pupetted cities]",
 
-        // "[+5]% [Food] [in cities connected via railroad]",
-        // "[+5]% [Production] [in cities connected via railroad]"
+        "[+30]% [Food] [in cities connected via railroad]",
+        "[+30]% [Production] [in cities connected via railroad]",
+        "[-30]% [Production] [in all cities]",
         // something something unit supply
     ]
 }
