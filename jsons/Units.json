@@ -631,7 +631,7 @@
 		"hurryCostModifier": 20
 	},
 		{
-		"name": "Settler",
+		"name": "Revolutionary",
 		"uniqueTo": "Leningrad Commune",
 		"replaces": "Settler",
 		"unitType": "Civilian",
