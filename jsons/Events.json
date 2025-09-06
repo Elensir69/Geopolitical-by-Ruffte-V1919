@@ -6,7 +6,7 @@
                 {
                         "text": "Winter War",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Internationalism Focus",
@@ -21,27 +21,27 @@
     {
         "text": "Nuclear Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Continuation War Alliance",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
         "uniques": [
-        "[+35]% Production when constructing [Water] units [in all cities] <for [100] turns>"]
+        "[+35]% Production when constructing [Water] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Aviation Effort",
         "uniques": [
-        "[+35]% Production when constructing [Fighter] units [in all cities] <for [100] turns>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
+        "[+35]% Production when constructing [Fighter] units [in all cities] <upon entering a new era>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
     },
     {
         "text": "Nokia Industry",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Strict Neutrality",
@@ -63,7 +63,7 @@
                 {
                         "text": "March on Rome",
                         "uniques": [
-                        "[+19]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+19]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Overthrow Mussolini",
@@ -73,17 +73,17 @@
      {
                         "text": "Italian Republic",
                         "uniques": [
-                        "[2] Free Technologies"]
+                        "[2] Free Technologies", "When declaring friendship, both parties gain a [40]% boost to great person generation <for [Alps' Confederation] Civilizations>"]
     },
     {
-        "text": "Nuclear Effort",
+        "text": "Military Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Military] units [in Capital] <upon entering a new era>"]
     },
     {
         "text": "Roman Empire Revival",
         "uniques": [
-        "[+70]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","[+20]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Restore the Monarchy",
@@ -100,7 +100,7 @@
             {
                     "text": "Red Army",
                     "uniques": [
-                    "Free Great Person","[4] population [in all cities]","[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                    "Free Great Person","[4] population [in all cities]","[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
  },
  {
                     "text": "Alliance with the Allies",
@@ -110,7 +110,7 @@
 {
     "text": "Technological Superiority",
     "uniques": [
-    "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+    "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
 },
 {
     "text": "Restore the Monarchy",
@@ -120,7 +120,7 @@
 {
     "text": "Civil Rights Movement",
     "uniques": [
-    "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+    "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
 },
 {
     "text": "Orthodox Revival",
@@ -142,7 +142,7 @@
                 {
                         "text": "Alliance with the Axis",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Alliance with the Soviets",
@@ -157,12 +157,12 @@
     {
         "text": "Nuclear Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Neutrality and Defense",
         "uniques": [
-        "[+35]% Strength <when fighting in [Friendly Land] tiles> <for [110] turns>", "[Gold] cost of purchasing items in cities [-10]% <for [110] turns>", "[-15]% Strength <when attacking> <for [110] turns>"]
+        "[+35]% Strength <when fighting in [Friendly Land] tiles> <upon entering a new era>", "[Gold] cost of purchasing items in cities [-10]% <upon entering a new era>", "[-15]% Strength <when attacking> <upon entering a new era>"]
     },
     {
         "text": "Resource Stockpiling",
@@ -172,7 +172,7 @@
     {
         "text": "National Redoubt",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Swiss Banks",
@@ -194,7 +194,7 @@
             {
                     "text": "Reichstag Fire Decree",
                     "uniques": [
-                    "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                    "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
   },
   {
                     "text": "Overthrow the Regime",
@@ -204,7 +204,7 @@
  {
     "text": "New Weimar Republic",
     "uniques": [
-    "Free Great Person","[+10]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+35]% Production when constructing [Armored] units [in all cities] <for [300] turns>"]
+    "Free Great Person","[+10]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+35]% Production when constructing [Armored] units [in all cities] <for [300] turns>"]
 },
  {
                     "text": "Allied Cooperation",
@@ -214,12 +214,12 @@
 {
     "text": "Nuclear Effort",
     "uniques": [
-    "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+    "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
 },
 {
     "text": "Doctrine Effort",
     "uniques": [
-    "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+    "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
 },
 {
     "text": "Flexible Navy",
@@ -234,7 +234,7 @@
 {
     "text": "Infrastructure Effort",
     "uniques": [
-    "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+    "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
 },
 {
     "text": "Economy Effort",
@@ -256,7 +256,7 @@
                 {
                         "text": "African Fascism",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "African Communist Movement",
@@ -271,12 +271,12 @@
     {
         "text": "Great Project",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "African Axis",
         "uniques": [
-        "[+45]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -291,7 +291,7 @@
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -313,7 +313,7 @@
     {
         "text": "The Lions",
         "uniques": [
-        "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -328,7 +328,7 @@
     {
         "text": "Improve Irrigation",
         "uniques": [
-        "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -369,7 +369,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Golden Mines",
@@ -396,7 +396,7 @@ Guide your nation through this transformative period, fostering economic develop
                 {
                         "text": "Adopt Fascism",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Adopt Communism",
@@ -411,12 +411,12 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Nuclear Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Doctrine Effort",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -431,7 +431,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -453,7 +453,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Divine Protectors",
         "uniques": [
-        "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -468,7 +468,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Mystic Weavers",
         "uniques": [
-        "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Spice Trade Revival",
@@ -505,7 +505,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Shadow Network",
         "uniques": [
-        "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -532,7 +532,7 @@ Guide your nation through this transformative period, fostering economic develop
                 {
                         "text": "Embrace the German Polynessia",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Embrace the Soviet Polynessia",
@@ -547,12 +547,12 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Mana o te Iwi",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Doctrine Effort",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Taonga tuku Iiho",
@@ -567,7 +567,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "British Advanced Tools",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -589,7 +589,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Marksmen",
         "uniques": [
-        "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -604,7 +604,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "European Tools",
         "uniques": [
-        "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Golden Nature Gifts",
@@ -641,7 +641,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Embrace the Elder Spirits",
         "uniques": [
-        "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Kava Party",
@@ -668,7 +668,7 @@ Guide your nation through this transformative period, fostering economic develop
                 {
                         "text": "Paramiliatrism",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Communist America",
@@ -688,12 +688,12 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Nuclear Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Doctrine Effort",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -708,7 +708,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -730,7 +730,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Centralization of Power",
         "uniques": [
-        "[+24]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+24]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Naval Effort",
@@ -745,7 +745,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Land Tax Reform",
@@ -772,7 +772,7 @@ Guide your nation through this transformative period, fostering economic develop
                 {
                         "text": "Communist Guerilla Warfare",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Pan-Asian Solidarity",
@@ -787,12 +787,12 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Dragon's Wrath",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Yunnan Cooperation",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Naval Raiding Operations",
@@ -807,7 +807,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -844,7 +844,7 @@ Guide your nation through this transformative period, fostering economic develop
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -885,7 +885,7 @@ The war had a significant impact on South Africa's economy and society. The manu
                 {
                         "text": "Support the Boers",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Soviet South Africa",
@@ -900,7 +900,7 @@ The war had a significant impact on South Africa's economy and society. The manu
     {
         "text": "Nuclear Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -915,7 +915,7 @@ The war had a significant impact on South Africa's economy and society. The manu
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Economy Effort",
@@ -937,7 +937,7 @@ The war had a significant impact on South Africa's economy and society. The manu
                 {
                         "text": "Paramiliatrism",
                         "uniques": [
-                        "[+18]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[+18]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
                         "text": "Seek Help From Soviet",
@@ -952,12 +952,12 @@ The war had a significant impact on South Africa's economy and society. The manu
     {
         "text": "Nuclear Effort",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Swaraj",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","[+15]% Production when constructing [Bomber] units [in all cities] <for [110] turns>"]
+        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","[+15]% Production when constructing [Bomber] units [in all cities] <upon entering a new era>"]
     },
     {
         "text": "Flexible Navy",
@@ -972,7 +972,7 @@ The war had a significant impact on South Africa's economy and society. The manu
     {
         "text": "Infrastructure Effort",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
         "text": "All India Forward Bloc",
@@ -1019,7 +1019,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Nuclear Effort",
                 "uniques": [
-                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1034,7 +1034,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Infrastructure Effort",
                 "uniques": [
-                "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1051,7 +1051,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Strengthening the Empire",
                 "uniques": [
-                "[1] free [Great War Infantry] units appear","[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[1] free [Great War Infantry] units appear","[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1066,7 +1066,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Colonial Contributions",
                 "uniques": [
-                "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1120,7 +1120,7 @@ The war had a significant impact on South Africa's economy and society. The manu
                         {
                                 "text": "Logistical Support",
                                 "uniques": [
-                                "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                                "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
               },
               {
                                 "text": "Authoritarian Rule",
@@ -1135,12 +1135,12 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Nuclear Effort",
                 "uniques": [
-                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Blitzkrieg",
                 "uniques": [
-                "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Provides a [Factory] in your first [5] cities for free","[+10]% Production when constructing [Armored] units [in all cities] <for [110] turns>"]
+                "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Provides a [Factory] in your first [5] cities for free","[+10]% Production when constructing [Armored] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1155,7 +1155,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Resource Plunder",
                 "uniques": [
-                "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1177,7 +1177,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Mobilization",
                 "uniques": [
-                "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Bright Future",
@@ -1197,7 +1197,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Reconstruction Planning",
                 "uniques": [
-                "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economic Stabilization",
@@ -1234,7 +1234,7 @@ The war had a significant impact on South Africa's economy and society. The manu
             {
                 "text": "Educational Reforms",
                 "uniques": [
-                "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+                "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1300,7 +1300,7 @@ needed to test these models empirically. The last part will assess comparatively
             {
                 "text": "Heavy Labor",
                 "uniques": [
-                "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+                "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1327,7 +1327,7 @@ needed to test these models empirically. The last part will assess comparatively
                         {
                                 "text": "Avenging the Sack of Baghdad",
                                 "uniques": [
-                                "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                                "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
               },
               {
                                 "text": "Cradle of Civilization",
@@ -1342,12 +1342,12 @@ needed to test these models empirically. The last part will assess comparatively
             {
                 "text": "Nuclear Effort",
                 "uniques": [
-                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "The Legacy of Cyrus the Great",
                 "uniques": [
-                "[+45]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1362,7 +1362,7 @@ needed to test these models empirically. The last part will assess comparatively
             {
                 "text": "The Sands of Time",
                 "uniques": [
-                "[+50]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+50]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+50]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+50]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1389,7 +1389,7 @@ needed to test these models empirically. The last part will assess comparatively
             {
                 "text": "A look into the Past",
                 "uniques": [
-                "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1404,7 +1404,7 @@ needed to test these models empirically. The last part will assess comparatively
             {
                 "text": "Public Health Initiatives",
                 "uniques": [
-                "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1440,8 +1440,8 @@ needed to test these models empirically. The last part will assess comparatively
             },
             {
                 "text": "Traditional Crafts and Industries",
-                "uniques": ["[+10]% Production when constructing [Gold] buildings [in all cities] <for [120] turns>",
-                "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+                "uniques": ["[+10]% Production when constructing [Gold] buildings [in all cities] <upon entering a new era>",
+                "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Revival of Ancient Trade Routes",
@@ -1517,7 +1517,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
               {
                                 "text": "Paramiliatrism",
                                 "uniques": [
-                                "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                                "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
               },
               {
                                 "text": "Internationalism Focus",
@@ -1532,12 +1532,12 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Rediscovery of Ancient Secrets",
                 "uniques": [
-                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Khalkhin Gol Defenses",
                 "uniques": [
-                "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1552,7 +1552,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Industrial Modernization",
                 "uniques": [
-                "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1579,7 +1579,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
               {
                                 "text": "Paramiliatrism",
                                 "uniques": [
-                                "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                                "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
               },
               {
                                 "text": "Internationalism Focus",
@@ -1594,12 +1594,12 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Nuclear Effort",
                 "uniques": [
-                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Doctrine Effort",
                 "uniques": [
-                "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1614,7 +1614,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Infrastructure Effort",
                 "uniques": [
-                "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1636,7 +1636,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
                         {
                                 "text": "Paramiliatrism",
                                 "uniques": [
-                                "[+15]% Production when constructing [Infantry] units [in all cities] <for [110] turns>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                                "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
               },
               {
                                 "text": "Internationalism Focus",
@@ -1651,12 +1651,12 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Nuclear Effort",
                 "uniques": [
-                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <for [110] turns>"]
+                "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Doctrine Effort",
                 "uniques": [
-                "[+35]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1671,7 +1671,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Infrastructure Effort",
                 "uniques": [
-                "[+40]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+40]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1693,7 +1693,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Doctrine Effort",
                 "uniques": [
-                "[+25]% Production when constructing [Infantry] units [in all cities] <for [110] turns>"]
+                "[+25]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Flexible Navy",
@@ -1708,7 +1708,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Infrastructure Effort",
                 "uniques": [
-                "[+30]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+30]% Production when constructing [Science] buildings [in all cities] <for [120] turns>"]
+                "[+30]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+30]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
@@ -1745,7 +1745,7 @@ Mongolia supported the Soviet war effort by providing livestock, raw materials, 
             {
                 "text": "Infrastructure Effort",
                 "uniques": [
-                "[+20]% Production when constructing [Production] buildings [in all cities] <for [120] turns>","[+20]% Production when constructing [Food] buildings [in all cities] <for [120] turns>"]
+                "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+20]% Production when constructing [Food] buildings [in all cities] <upon entering a new era>"]
             },
             {
                 "text": "Economy Effort",
