@@ -2817,7 +2817,7 @@
         "spyNames": ["Cseresznye", "Alma", "Szilva", "Körte", "Barack", "Őszibarack", "Narancs", "Mangó", "Füge", "Dinnye"]
     },
 {
-		"name": "Imperial China",
+		"name": "Nationalist China",
 		"leaderName": "Empress Dowager Cixi",
 		"adjective": ["Chinese"],
 		"preferredVictoryType": "Supremacy",
@@ -2839,13 +2839,14 @@
 		"favoredReligion": "Taoism",
 		"uniqueName": "Sky Mandate",
 		"uniques": ["Asian",
-		"[+1 Culture] from every [Mountain]","[+2 Faith] from every [Jungle]"],
+		"[+25]% Strength <upon being declared war on by [all] Civilizations> <when at war>", "[+100]% Production when constructing [Civilian] units [in your cities]",
+		"[-60]% spy effectiveness [in all cities]", "[+50]% growth [in your cities]", "[+100]% Unhappiness from [Population] [in your cities]",
+		"[+100]% of excess happiness converted to [Culture]", "When declaring friendship, both parties gain a [20]% boost to great person generation"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
         "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
-
     },
     {
 		"name": "British Raj",
