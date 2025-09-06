@@ -181,7 +181,7 @@
 
         "[+15]% [Food] [in all cities connected to capital]",
         "[+15]% [Production] [in all cities connected to capital]",
-        "[-10]% [Production] [in all cities]",
+        // [-10]% [Production] [in all cities],
         // something something unit supply
 
         // Event Focus
