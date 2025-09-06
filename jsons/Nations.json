@@ -3140,7 +3140,7 @@
 		"uniqueName": "Industrialization through war",
 		"uniques": ["Asian",
 		"No damage penalty for wounded units <for [non-air] units>", "[+15]% Production when constructing [all] buildings [in all coastal cities] <when at war>",
-		"[+100 Production] [in capital] <upon conquering a city> <for [1] turns>", "[+1 Food] from every [Coastal] tiles [in all cities]", "May not annex cities", "Resting point for Influence with City-States is increased by [-60]"],
+		"[+100 Production] [in capital] <upon conquering a city> <for [1] turns>", "[+1 Food] from [Coastal] tiles [in all cities]", "May not annex cities", "Resting point for Influence with City-States is increased by [-60]"],
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
