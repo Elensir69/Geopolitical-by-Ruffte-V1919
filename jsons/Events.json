@@ -61,29 +61,30 @@
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
         "choices": [
                 {
-                        "text": "March on the Alps",
-                        "uniques": [
-                        "Empire enters golden age <upon declaring war on [Alps' Confederation] Civilizations>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+        "text": "March on the Alps",
+        "uniques": [
+        "Empire enters golden age <upon declaring war on [Alps' Confederation] Civilizations>", "Remove [Swiss Bank] [in your cities]","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
-                        "text": "Overthrow Mussolini",
-                        "uniques": [
-                        "Free Great Person","[4] population [in all cities]"]
+        "text": "Overthrow Mussolini",
+        "uniques": [
+        "Free Great Person","[4] population [in all cities]"]
      },
      {
-                        "text": "Italian Republic",
-                        "uniques": [
-                        "[2] Free Technologies", "When declaring friendship, both parties gain a [40]% boost to great person generation <for [Alps' Confederation] Civilizations>"]
+        "text": "Italian Republic",
+        "uniques": [
+        "[2] Free Technologies", "Gain a free [Swiss Bank] [in capital]"]
     },
     {
         "text": "Military Effort",
         "uniques": [
-        "[+45]% Production when constructing [Military] units [in Capital] <upon entering a new era>"]
+        "Gain a free [Imperator Factory] [in capital]", "Remove [Swiss Bank] [in your cities]"]
     },
     {
         "text": "Roman Empire Revival",
         "uniques": [
-        "[+20]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","[+20]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
+        "Empire enters a [10]-turn Golden Age", "Triggers the following global alert: [l'Italie souhaite devenir Imperator du Globe]", "Triggers voting for the Diplomatic Victory",
+        "Gain a free [Palais Imperial] [in capital]", "Remove [Swiss Bank] [in your cities]", "Remove [Imperator Factory] [in your cities]"]
     },
     {
         "text": "Restore the Monarchy",
