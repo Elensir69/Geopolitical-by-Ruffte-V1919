@@ -173,14 +173,21 @@
 
         // "[+10]% growth [in all cities] <during We Love The King Day>",
 
-        "Nullifies All Yield <while is in resistance>",
+        "Nullifies [Production] [in resisting cities]", "Nullifies [Food] [in resisting cities]", "Nullifies [Gold] [in resisting cities]", "Nullifies [Science] [in resisting cities]",
+        "Nullifies [Culture] [in resisting cities]", "Nullifies [Happiness] [in resisting cities]", "Nullifies [Faith] [in resisting cities]",
 
-        "[-25]% [Science] [in pupetted cities]",
-        "[-25]% [Culture] [in pupetted cities]",
+        "[-25]% [Science] [in puppeted cities]",
+        "[-25]% [Culture] [in puppeted cities]",
 
-        "[+30]% [Food] [in cities connected via railroad]",
-        "[+30]% [Production] [in cities connected via railroad]",
+        "[+30]% [Food] [[in all cities connected to capital]]",
+        "[+30]% [Production] [[in all cities connected to capital]]",
         "[-30]% [Production] [in all cities]",
         // something something unit supply
+
+        // Event Focus
+
+        "Triggers a [Italy Focus] event <for [Italy] Civilizations> <upon entering a new era>",
+
+
     ]
 }
