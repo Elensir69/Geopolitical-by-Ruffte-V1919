@@ -1432,11 +1432,11 @@
 		"cities": ["Junjuwa","Daringunaya","Bandilngan","Dimalurru", "Yaranggi", "Baraa", "Jijidu", "Yuwa", "Miluwindi", "Mindi Rardi", "Gurang.ngadja", "Dawadiya", "Danggu", "Biridu", "Balili", "Kurnangki", "Bungardi", "Galamunda", "Malarabah", "Yirimalay", "Buruwa", "Jimbalakudunj"],
 	},
 {
-		"name": "Iceland",
-		"leaderName": "Jón Sigurðsson",
-		"adjective": ["Iceland"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Political",
+		"name": "Czechoslovakia",
+		"leaderName": "Edvard Benes",
+		"adjective": ["Czechoslovakian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Space Race",
 		
 		"startIntroPart1": "",
 		
@@ -1452,10 +1452,12 @@
 				
 		"outerColor": [5, 63, 84],
 		"innerColor": [120, 215, 250],
-		"uniqueName": "Notwithstanding",
+		"uniqueName": "Developpement beneath the Walls",
 		"uniques": ["Non Middle Eastern",
-		"[1] free [Explorer] units appear","[+1 Science, +1 Happiness] from all [Science] buildings","[+1 Culture] from every [Geothermal Plant]"],
-		"cities": ["Reykjavík","Akureyri","Kópavogur","Hafnarfjörður","Reykjanesbær","Garðabær","Mosfellsbær"," ?rborg","Akranes","Fjarðabyggð"],
+		"[+2 Production] from [Fort] tiles [in your cities]", "[+2 Production] from [Trenches] tiles [in your cities]", "[+2 Production] from [Bunker] tiles [in your cities]",
+		"[+2 Production] from [Barbed Wire] tiles [in your cities]", "[+2 Production] from [Military Factory] tiles [in your cities]", "[+20]% [Production] [in your cities] <during a Golden Age>",
+		"[-20]% [Culture] [in your cities] <when not in a Golden Age>", "Gain [-20] [Gold] <(modified by game progress up to [400]%)> <every [4] turns> <with [20]% chance>"],
+		"cities": ["Praha","Brno","Bratislava","Liberec","Ostrava","Koslice","Olomouc"," Plzen"],
 	},
 {
 		"name": "Great Para",
@@ -1978,7 +1980,7 @@
 		"name": "Respublika Heptanarija",
 		"leaderName": "Kronavoce Maria Ière",
 		"adjective": ["Civis"],
-		"startBias": ["Plains"],
+		"startBias": ["River"],
 		"preferredVictoryType": "Space Race",
 		
 		"startIntroPart1": "",
@@ -3252,7 +3254,8 @@
 		"favoredReligion": "Catholic",
 		"uniqueName": "Krupp Factories",
 		"uniques": ["Non Middle Eastern",
-		"[-50]% Gold cost of acquiring tiles [in all cities]", "Free [Krupp Steel Cannon] appears <upon discovering [Mining] technology>","[-50]% maintenance costs <for [Land] units>"],
+		"[+50]% Gold cost of acquiring tiles [in all cities]", "Free [Krupp Steel Cannon] appears <upon discovering [Mining] technology>","[+100]% maintenance costs <for [Land] units>",
+		"[+200]% maintenance costs <for [Water] units>", "[-40]% Strength for cities", "[+120]% Strength for cities <with a garrison>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
