@@ -704,7 +704,7 @@ Guide your nation through this transformative period, fostering economic develop
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
         "choices": [
                 {
-                        "text": "Paramiliatrism",
+                        "text": "Congrès de ses morts",
                         "uniques": [
                         "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
@@ -714,47 +714,52 @@ Guide your nation through this transformative period, fostering economic develop
                         "Free Great Person","[4] population [in all cities]"]
      },
      {
-        "text": "Embrace the Colonial Past",
+        "text": "PTP-1919",
         "uniques": [
         "[1] Free Technologies","[2] population [in all cities]"]
 },
      {
-                        "text": "Fascist America",
-                        "uniques": [
-                        "[2] Free Technologies"]
+         "text": "Fascist America",
+         "uniques": [
+         "[2] Free Technologies"]
     },
     {
-        "text": "Nuclear Effort",
+        "text": "CIA power",
         "uniques": [
         "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
     },
     {
-        "text": "Doctrine Effort",
+        "text": "Dominance Doctrine",
         "uniques": [
         "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
     },
     {
-        "text": "Flexible Navy",
+        "text": "The US Administration will always support",
         "uniques": [
         "[+35]% Production when constructing [Water] units [in all cities] <for [100] turns>"]
     },
     {
-        "text": "Aviation Effort",
+        "text": "Impéachment",
         "uniques": [
         "[+35]% Production when constructing [Fighter] units [in all cities] <for [100] turns>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
     },
     {
-        "text": "Infrastructure Effort",
+        "text": "Shameful Treaties",
         "uniques": [
         "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
     },
     {
-        "text": "Economy Effort",
+        "text": "Economic Rebirth",
         "uniques": [
         "Gain [2000] [Gold]"]
     },
     {
-        "text": "Political Effort.",
+        "text": "American Capital",
+        "uniques": [
+        "[1] Free Social Policies"]
+    },
+    {
+        "text": "Nazi overtones",
         "uniques": [
         "[1] Free Social Policies"]
     }
