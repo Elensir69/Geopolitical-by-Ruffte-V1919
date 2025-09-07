@@ -620,9 +620,19 @@
 		"hurryCostModifier": 20
 	},
 		{
-		"name": "Faith of Russia",
+		"name": "Revolutionnary of Rebirth",
 		"uniqueTo": "Russian National Forces",
 		"replaces": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population", "Unbuildable"],
+		"hurryCostModifier": 20
+	},
+			{
+		"name": "Faith of Russia",
+		"uniqueTo": "Russian National Forces",
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
@@ -633,12 +643,22 @@
 		{
 		"name": "Revolutionary",
 		"uniqueTo": "Leningrad Commune",
-		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 258,
 		"uniques": ["Empire enters golden age <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+		{
+		"name": "Great Revolutionnary",
+		"uniqueTo": "Leningrad Commune",
+		"replaces": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population", "Unbuildable"],
 		"hurryCostModifier": 20
 	},
         {
