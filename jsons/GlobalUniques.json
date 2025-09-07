@@ -187,10 +187,7 @@
         // Event Focus
 
         "Triggers a [Italy Focus] event <for [Italy] Civilizations> <upon entering a new era>",
-        "Triggers a [Italy Focus] event <for [Turkestan] Civilizations> <upon entering a new era>",
-        "Triggers a [Italy Focus] event <for [Iberic Federation] Civilizations> <upon entering a new era>",
-        "Triggers a [Italy Focus] event <for [Respublika Heptanarija] Civilizations> <upon entering a new era>",
-        "Triggers a [Italy Focus] event <for [High Kingdom of the North] Civilizations> <upon entering a new era>"
+        "Triggers a [Que sommes-nous ?] event <once>",
 
 
     ]
