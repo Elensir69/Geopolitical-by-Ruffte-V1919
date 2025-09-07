@@ -36,6 +36,32 @@
 
         ]
 },
+      {
+        "name": "PTP-1919",
+        "text": "It's the end les gueux",
+        "choices": [
+                {
+        "text": "CONFINEMENT (coucou l'AS",
+        "uniques": [
+        "Gain [-20] [Gold] <for [10] turns> <(modified by game progress up to [100]%)> <every [1] turns>"]
+      },
+                {
+        "text": "Et si...",
+        "uniques": [
+        "Gain [+10] [Production] <in [Your] cities> <for [10] turns> <(modified by game progress up to [100]%)> <every [1] turns>", "[-3] population in a random city <for [10] turns> <every [1] turns>"]
+      },
+      {
+        "text": "Un médicament peut-être ?",
+        "uniques": [
+        "[-3] population in a random city <for [10] turns> <every [1] turns> <with [40]% chance>"]
+      },
+      {
+        "text": "L'État va protéger",
+        "uniques": [
+        "[-1] population in a random city <for [10] turns> <every [1] turns> <with [60]% chance>", "Gain [-5] [Gold] <for [10] turns> <(modified by game progress up to [100]%)> <every [1] turns>"]
+      },
+        ]
+},
     {
         "name": "Finland Focus",
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
@@ -178,44 +204,40 @@
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
         "choices": [
                 {
-                        "text": "Alliance with the Axis",
+                        "text": "Union des Germanophones",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "[5] free [Great War Infantry] units appear <upon declaring war on [German Empire] Civilizations>", "Gain [200] [Culture]", "[Land] units gain the [Flamethrower] promotion", "Triggers the following global alert: [Gare au pangermanisme de la Confédération Alpine...]"]
       },
       {
-                        "text": "Alliance with the Soviets",
+                        "text": "Politique des régimes spéciaux",
                         "uniques": [
-                        "Free Great Person","[4] population [in all cities]"]
+                        "Free Great Person [in puppeted cities]", "[+5] population [in puppeted cities]"]
      },
      {
-                        "text": "Alliance with the Allies",
-                        "uniques": [
-                        "[2] Free Technologies"]
+                        "text": "Posture défensive",
+                        "uniques": ["Gain an extra spy"]
     },
     {
-        "text": "Nuclear Effort",
-        "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
+           "text": "£lite bancaire",
+         "uniques": [
+         "Remove [Liberty] and refund [110]% of its cost"]
     },
     {
-        "text": "Neutrality and Defense",
-        "uniques": [
-        "[+35]% Strength <when fighting in [Friendly Land] tiles> <upon entering a new era>", "[Gold] cost of purchasing items in cities [-10]% <upon entering a new era>", "[-15]% Strength <when attacking> <upon entering a new era>"]
+         "text": "Neutralité et arme nucléaire",
+          "uniques": ["Gain a free [Manhattan Project] [in capital]"]
     },
     {
-        "text": "Resource Stockpiling",
-        "uniques": [
-        "Provides [15] [Oil] <for [210] turns>","Provides [10] [Computer] <for [210] turns>"]
+        "text": "comptoirs Mondiaux",
+       "uniques": [ "Provides [25] [0il] <for [30] turns>"]
     },
     {
-        "text": "National Redoubt",
-        "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
+         "text": "Relations européanistes",
+       "uniques": [ "Triggers voting for the Diplomatic Victory", "Gain control over [5] tiles [in capital]", "Triggers the following global alert: [Souhaiteriez-vous rejoindre l'UELE ?]"],
     },
     {
         "text": "Swiss Banks",
         "uniques": [
-        "Gain [3500] [Gold]"]
+        "Gain [1500] [Gold]"]
     },
     {
         "text": "Diplomatic Maneuvering.",
