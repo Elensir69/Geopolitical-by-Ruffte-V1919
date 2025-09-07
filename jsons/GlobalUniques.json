@@ -186,8 +186,8 @@
 
         // Event Focus
 
-        "Triggers a [Italy Focus] event <for [Italy] Civilizations> <upon entering a new era>",
-        "Triggers a [Que sommes-nous ?] event <upon discovering [Settlement] technology>",
+        "Triggers a [Italy Focus] event <for [Italy] Civilizations> <upon entering a new era> <with [100]% chance>",
+        "Triggers a [Que sommes-nous ?] event <upon discovering [Settlement] technology> <with [100]% chance>",
 
 
     ]
