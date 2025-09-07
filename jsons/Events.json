@@ -100,7 +100,7 @@
                 {
         "text": "March on the Alps",
         "uniques": [
-        "Empire enters golden age <upon declaring war on [Alps' Confederation] Civilizations>", "Remove [Swiss Bank] [in your cities]","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+        "Empire enters golden age <upon declaring war on [Alps' Confederation] Civilizations> <for [20] turns>", "Remove [Swiss Bank] [in your cities]","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
         "text": "Overthrow Mussolini",
@@ -126,7 +126,7 @@
     {
         "text": "Restore the Monarchy",
         "uniques": [
-        "Gain [1700] [Gold]","[1] Free Social Policies"]
+        "Gain [1000] [Gold]","[1] Free Social Policies"]
     }
 
         ]
@@ -704,65 +704,60 @@ Guide your nation through this transformative period, fostering economic develop
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
         "choices": [
                 {
-                        "text": "Congrès de ses morts",
-                        "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+         "text": "Congrès de ses morts",
+         "uniques": [
+         "[Gain a free [Congrès] [in capital]","Gain a free [buildingName] [in capital]", "Triggers voting for the Diplomatic Victory", "Triggers the following global alert: [Le Congrès des USA est pas content.]"]
       },
       {
-                        "text": "Communist America",
-                        "uniques": [
-                        "Free Great Person","[4] population [in all cities]"]
+        "text": "Communist America",
+          "uniques": [
+         "[5] population [in all cities]"]
      },
      {
         "text": "PTP-1919",
         "uniques": [
-        "[1] Free Technologies","[2] population [in all cities]"]
+        "Triggers a [PTP-1919] event", "Triggers the following global alert: [Coucou PTP guys]", "Remove [Congrès] [in your cities]", "Instantly gain [2500] [Gold]"]
 },
      {
-         "text": "Fascist America",
+         "text": "Nazi overtones",
          "uniques": [
-         "[2] Free Technologies"]
+         "Remove [Congrès] [in your cities]", "[6] free [African Slave] units appear", "Instantly gain [100] [Golden Age points] <upon declaring war on [all] Civilizations> <for [50] turns>"]
     },
     {
         "text": "CIA power",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
+        "Gain an extra spy","Promotes all spies [1] time(s)", "Remove [Congrès] [in your cities]"]
     },
     {
         "text": "Dominance Doctrine",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
+        "Gain a free [Supercomplexe] [in all cities connected to capital]", "Provides the cheapest [Production] building in your first [4] cities for free"]
     },
     {
         "text": "The US Administration will always support",
         "uniques": [
-        "[+35]% Production when constructing [Water] units [in all cities] <for [100] turns>"]
+        "Free Great Person <upon declaring a defensive pact> <for [30] turns>"]
     },
     {
         "text": "Impéachment",
         "uniques": [
-        "[+35]% Production when constructing [Fighter] units [in all cities] <for [100] turns>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
+        "Gain [-30] [Happiness] <for [5] turns>","Gain control over [3] tiles [in all cities]", "Remove [Congrès] [in your cities]"]
     },
     {
         "text": "Shameful Treaties",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
+        "Gain [500] [Gold] <upon declaring a defensive pact> <for [30] turns>", "Gain [500] [Gold] <upon declaring friendship> <for [30] turns>"]
     },
     {
         "text": "Economic Rebirth",
         "uniques": [
-        "Gain [2000] [Gold]"]
+        "Empire enters a [20]-turn Golden Age"]
     },
     {
         "text": "American Capital",
         "uniques": [
-        "[1] Free Social Policies"]
+        "Gain [100] [Production] <in [Your] cities>"]
     },
-    {
-        "text": "Nazi overtones",
-        "uniques": [
-        "[1] Free Social Policies"]
-    }
 
         ]
 },
