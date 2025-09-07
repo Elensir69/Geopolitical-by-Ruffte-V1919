@@ -1,4 +1,41 @@
 [
+   {
+        "name": "Que sommes-nous ?",
+        "text": "Que sommes-nous ?",
+        "choices": [
+                {
+        "text": "Héritiers",
+        "uniques": [
+        "Gain [100] [Gold]"]
+      },
+      {
+        "text": "Fondateurs",
+        "uniques": [
+        "Free [Settler] appears"]
+     },
+     {
+        "text": "Marchands",
+        "uniques": [
+        "Free [Worker] appears"]
+    },
+    {
+        "text": "Guerriers",
+        "uniques": [
+        "Free [Explorer] appears"]
+    },
+    {
+        "text": "Prêtres",
+        "uniques": [
+        "Gain enough Faith for a Pantheon"]
+    }
+    {
+        "text": "Serviteurs",
+        "uniques": [
+        "Gain an extra spy"]
+    }
+
+        ]
+},
     {
         "name": "Finland Focus",
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
