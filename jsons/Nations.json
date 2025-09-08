@@ -1971,7 +1971,7 @@
 		"innerColor": [118, 245, 164],
                 "favoredReligion": "Islam",
 		"uniqueName": "Panislamism Way",
-		"uniques": ["[+20]% Production when constructing [Faith] buildings [in all cities]","Religion naturally spreads to cities [+5] tiles away",
+		"uniques": ["[+20]% Production when constructing [Faith] buildings [in all cities]","Religion naturally spreads to cities [+2] tiles away",
 			"When spreading religion to a city, gain [100] times the amount of followers of other religions as [Faith]", "Resting point for Influence with City-States following this religion [+40]",
 			"[-20]% [Gold] [in your cities]", "Free Great Person <upon declaring friendship>"],
 		"cities": ["Astana","Tashkent","Samarkand","Bukhara","Nukus","Fergana","Qarshi","Kokand","Margilan","Termez","Jizzakh","Angren","Chirchiq","Navoiy","Urgench","Shahrisabz"]
@@ -2000,9 +2000,9 @@
                 "favoredReligion": "Catholic",
 		"uniqueName": "Light of Maria",
 		"uniques": ["Non Middle Eastern",
-		"[+50]% [Gold] from Trade Routes", "May not annex cities",
-		"[+1 Happiness] per every [20] [Gold]", "[+5 Production] from every specialist [in your cities]", "[+5 Science] from every specialist [in your cities]",
-		"[+1000]% Faith cost of generating Great Prophet equivalents", "[+30]% Great Person generation [in your cities]"],
+		"[+50]% [Gold] from Trade Routes", "May not annex cities","May buy items in puppet cities","[Gold] cost of purchasing items in cities [-33]%",
+		"[+1 Happiness] per every [15] [Gold]", "[+7 Production] from every specialist [in your cities]", "[+7 Science] from every specialist [in your cities]",
+		"[+1000]% Faith cost of generating Great Prophet equivalents", "May not generate great prophet equivalents naturally", "[+30]% Great Person generation [in your cities]", "Free Great Person <upon entering a Golden Age>"],
 		"cities": ["Veligrad","Warsaw","Riga","Nova Przystań","Minsk","Lviv","Chisinau","Krakow","Breslavia","Poznan","Zakopane","Gdynia","Lodz","Szczecin","Torun","Lublin","Kolobrezeg","Sopot"]
 	},
 {
@@ -3286,8 +3286,8 @@
 		"favoredReligion": "Auramorphisme",
 		"uniqueName": "Auramorphism",
 		"uniques": ["Non Middle Eastern",
-		"[-5 Gold] from every specialist [in your cities]", "[-1 Science] per every [20] [Faith] <after discovering [Industrialization]>", "Gain [20] [Faith] <upon gaining a [all] unit>", 
-		"Earn [20]% of killed [Land] unit's [Cost] as [Faith] <when at war>", "[Faith] cost of purchasing [Religious] units [-30]%", "Free Technology <after founding a religion>",
+		"[-5 Gold] from every specialist [in your cities]", "[-1 Science] per every [10] [Faith] <after discovering [Industrialization]>", "Gain [20] [Faith] <upon gaining a [all] unit>", 
+		"Earn [20]% of killed [Land] unit's [Cost] as [Faith] <when at war>", "[Faith] cost of purchasing [Religious] units [-35]%", "Free Technology <after founding a religion>",
 		"Free Technology <after enhancing a religion>"],
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
@@ -3296,8 +3296,8 @@
         "spyNames": ["Rodrigo", "Esmeralda", "Leon", "Mathilda", "Ramona", "Señor X", "Topolino", "Serpiente", "Garcia", "El Lobo"]
     },
     {
-		"name": "French Empire",
-		"leaderName": "Napoleon III",
+		"name": "French Republic",
+		"leaderName": "General Raoul Salan",
 		"adjective": ["French"],
 		"preferredVictoryType": "Supremacy",
 
@@ -3316,12 +3316,14 @@
         "innerColor": [239,236,148],
 
 		"favoredReligion": "Judaism",
-		"uniqueName": "Ancien Régime",
+		"uniqueName": "Ligues au pouvoir",
 		"uniques": ["Non Middle Eastern",
-		"[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
-		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+		"[+2 Culture] [in all cities] <before discovering [Steam Power]>", "[+400]% Production when constructing [Military] units [in your cities] <when below [0] [Gold]>",
+		"[+100]% growth [in your cities] <when at war>", "[+2 Gold] per [1] population [in your cities] <when at war>", "[-2 Production] per [3] population [in your cities] <when at war>",
+		"[+100]% Production when constructing [Colons français] units [in all coastal cities] <when at war>"],
+		"cities": ["Castres","Lyon", "Orleans","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
-			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Nice","Paris","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
 			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"],
         "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
     },
