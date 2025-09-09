@@ -3320,7 +3320,7 @@
 		"uniques": ["Non Middle Eastern",
 		"[+2 Culture] [in all cities] <before discovering [Steam Power]>", "[+400]% Production when constructing [Military] units [in your cities] <when below [0] [Gold]>",
 		"[+100]% growth [in your cities] <when at war>", "[+2 Gold] per [1] population [in your cities] <when at war>", "[-2 Production] per [3] population [in your cities] <when at war>",
-		"[+100]% Production when constructing [Colons français] units [in all coastal cities] <when at war>"],
+		"[+100]% Production when constructing [Colons français] units [in all coastal cities]", "[+100]% [all] resource production <in [Puppeted] cities>", "[+33]% Unhappiness from [Population] [in puppeted cities] <in [Puppeted] cities>"],
 		"cities": ["Castres","Lyon", "Orleans","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Paris","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
