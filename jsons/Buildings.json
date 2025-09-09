@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "Court - French - Syria",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Gold] per [5] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+3]% Production when constructing [All] units [in this city]",
 			"Only available <in cities without a [Court - Bedouin - Syria]>","Only available <in cities without a [Court - Ottoman - Syria]>",
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "Court - Ottoman - Syria",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+36]% Production when constructing [Artillery] units [in all cities]",
 			"Only available <in cities without a [Court - French - Syria]>","Only available <in cities without a [Court - Bedouin - Syria]>",
@@ -49,7 +49,7 @@
 	},
 	{
 		"name": "Court - British - Levant",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[4] free [Sepoy] units appear <upon entering the [First World War]>","[+1 Production] from [Mine] tiles [in this city] <during a Golden Age>",
 			"Only available <in cities without a [Court - Jordan - Levant]>","Only available <in cities without a [Court - Maronite - Levant]>",
@@ -57,7 +57,7 @@
 	},
 	{
 		"name": "Court - Jordan - Levant",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+44]% Strength <vs [Camel] units>",
 			"Only available <in cities without a [Court - British - Levant]>","Only available <in cities without a [Court - Maronite - Levant]>",
@@ -65,7 +65,7 @@
 	},
 	{
 		"name": "Court - Maronite - Levant",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Comment [Enables the Maronite Church building]","Comment [Enables the Maronite Rifleman unit]",
 			"Only available <in cities without a [Court - British - Levant]>","Only available <in cities without a [Court - Jordan - Levant]>",
@@ -73,7 +73,7 @@
 	},
 	{
 		"name": "Court - Majlis al-Asha'ir - Transjordan",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Culture] from [House] tiles [in this city]",
 			"Only available <in cities without a [Court - Ottoman - Transjordan]>","Only available <in cities without a [Court - British - Transjordan]>",
@@ -81,7 +81,7 @@
 	},
 	{
 		"name": "Court - Ottoman - Transjordan",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+36]% Production when constructing [Artillery] units [in all cities]",
 			"Only available <in cities without a [Court - Majlis al-Asha'ir - Transjordan]>","Only available <in cities without a [Court - British - Transjordan]>",
@@ -89,7 +89,7 @@
 	},
 	{
 		"name": "Court - British - Transjordan",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[4] free [Sepoy] units appear <upon entering the [First World War]>","[+1 Production] from [Mine] tiles [in this city] <during a Golden Age>",
 			"Only available <in cities without a [Court - Ottoman - Transjordan]>","Only available <in cities without a [Court - Majlis al-Asha'ir - Transjordan]>",
@@ -97,7 +97,7 @@
 	},
 	{
 		"name": "Immigrant Colony - Chinese",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - German]>","Only available <in cities without a [Immigrant Colony - Spaniard]>","Only available <in cities without a [Immigrant Colony - Italian]>",
 		"Only available <in cities without a [Immigrant Colony - Lebanese]>","Only available <in cities without a [Immigrant Colony - Polish]>","Only available <in cities without a [Immigrant Colony - Japanese]>",
@@ -105,7 +105,7 @@
 	},
 	{
 		"name": "Immigrant Colony - Japanese",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - German]>","Only available <in cities without a [Immigrant Colony - Spaniard]>","Only available <in cities without a [Immigrant Colony - Chinese]>",
 		"Only available <in cities without a [Immigrant Colony - Lebanese]>","Only available <in cities without a [Immigrant Colony - Polish]>","Only available <in cities without a [Immigrant Colony - Italian]>",
@@ -113,7 +113,7 @@
 	},
 	{
 		"name": "Immigrant Colony - Polish",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - German]>","Only available <in cities without a [Immigrant Colony - Spaniard]>","Only available <in cities without a [Immigrant Colony - Chinese]>",
 		"Only available <in cities without a [Immigrant Colony - Lebanese]>","Only available <in cities without a [Immigrant Colony - Italian]>","Only available <in cities without a [Immigrant Colony - Japanese]>",
@@ -121,7 +121,7 @@
 	},
 	{
 		"name": "Immigrant Colony - Lebanese",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - German]>","Only available <in cities without a [Immigrant Colony - Spaniard]>","Only available <in cities without a [Immigrant Colony - Chinese]>",
 		"Only available <in cities without a [Immigrant Colony - Italian]>","Only available <in cities without a [Immigrant Colony - Polish]>","Only available <in cities without a [Immigrant Colony - Japanese]>",
@@ -129,7 +129,7 @@
 	},
 	{
 		"name": "Immigrant Colony - Spaniard",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - German]>","Only available <in cities without a [Immigrant Colony - Italian]>","Only available <in cities without a [Immigrant Colony - Chinese]>",
 		"Only available <in cities without a [Immigrant Colony - Lebanese]>","Only available <in cities without a [Immigrant Colony - Polish]>","Only available <in cities without a [Immigrant Colony - Japanese]>",
@@ -137,7 +137,7 @@
 	},
 	{
 		"name": "Immigrant Colony - German",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - Italian]>","Only available <in cities without a [Immigrant Colony - Spaniard]>","Only available <in cities without a [Immigrant Colony - Chinese]>",
 		"Only available <in cities without a [Immigrant Colony - Lebanese]>","Only available <in cities without a [Immigrant Colony - Polish]>","Only available <in cities without a [Immigrant Colony - Japanese]>",
@@ -145,7 +145,7 @@
 	},
 	{
 		"name": "Immigrant Colony - Italian",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Immigrant Colony","Only available <in cities without a [Immigrant Colony - German]>","Only available <in cities without a [Immigrant Colony - Spaniard]>","Only available <in cities without a [Immigrant Colony - Chinese]>",
 		"Only available <in cities without a [Immigrant Colony - Lebanese]>","Only available <in cities without a [Immigrant Colony - Polish]>","Only available <in cities without a [Immigrant Colony - Japanese]>",
@@ -153,25 +153,25 @@
 	},
 	{
 		"name": "Council Lodge - Elder",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Council Lodge - Wise Mother]>","Only available <in cities without a [Council Lodge - Hunter]>","[+1 Gold] per [5] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+3]% Production when constructing [All] units [in this city]","Only available <for [Native American] Civilizations>"]
 	},
 	{
 		"name": "Council Lodge - Wise Mother",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Council Lodge - Hunter]>","Only available <in cities without a [Council Lodge - Elder]>","[+1 Food] per [3] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+5]% Production when constructing [All] units [in this city]","Only available <for [Native American] Civilizations>"]
 	},
 	{
 		"name": "Council Lodge - Hunter",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Council Lodge - Wise Mother]>","Only available <in cities without a [Council Lodge - Elder]>","[+22]% Production when constructing [All] units [in this city]","Only available <for [Native American] Civilizations>"]
 	},
 	{
 		"name": "Tribal Monument",
-		"isNationalWonder": true,
+		"is": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Food] from [Hunter Lodge] tiles [in this city]","[+1 Production] per [6] population [in all cities]","[+4]% Production when constructing [All] units [in this city]","Only available <for [African] Civilizations>"]
 	},
@@ -2379,7 +2379,16 @@
 		"uniques": ["[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Archaeology"
 	},
-
+	{
+		"name": "Congrès",
+        "greatPersonPoints": {"Artist": 2},
+		"cost": 125,
+		"culture": 5,
+		"isNationalWonder": true,
+		"uniques": ["[+100]% Great Person generation [in this city]", "Unbuildable"],
+		"percentStatBonus": {"gold": -25}
+		"requiredTech": "Archaeology"
+	},
         {
 		"name": "Memorial",
                 "specialistSlots": {"Artist": 5},
