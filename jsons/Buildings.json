@@ -1033,7 +1033,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Anesthesia",
-		"uniques": ["Destroyed when the city is captured", "Unbuildable", "[+3 Production] from [Barbed Wire] tiles [in all cities]", "[+2  Production] from [Trench] tiles [in this city]",
+		"uniques": ["Destroyed when the city is captured", "Unbuildable", "[+3 Production] from [Barbed Wire] tiles [in all cities]", "[+2 Production] from [Trench] tiles [in this city]",
 		"Enemy [Military] units must spend [3] extra movement points when inside your territory"]
 	},
         {
