@@ -95,7 +95,7 @@
     {
         "text": "Alliance avec la Seconde Rome",
         "uniques": [
-        "Gain a free [Imperator Factory] [in capital] <for [nonNegativeAmount] turns>", "Empire enters a [12]-turn Golden Age",
+        "Gain a free [Imperator Factory] [in capital]", "Empire enters a [12]-turn Golden Age",
          "Gain control over [1] tiles [in your cities] <upon declaring a defensive pact> <for [30] turns>"]
     },
     {
