@@ -63,58 +63,61 @@
         ]
 },
     {
-        "name": "Finland Focus",
+        "name": "Greek Focus",
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
         "choices": [
                 {
-                        "text": "Winter War",
-                        "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+         "text": "Brûler les Turcs",
+         "uniques": [
+         "Gain [15] [Happiness] <for [10] turns>", "[10] free [Milice Impériale] units appear <upon declaring war on [The Ottomans] Civilizations> <for [20] turns>",
+         "[Land] units gain the [Flamethrower] promotion"]
       },
       {
-                        "text": "Internationalism Focus",
-                        "uniques": [
-                        "Free Great Person","[4] population [in all cities]"]
+         "text": "Ligne Konstantinos",
+         "uniques": [
+         "Gain a free [Ligne Konstantinos] [in capital]"]
      },
      {
-                        "text": "Alliance with the Allies",
-                        "uniques": [
-                        "[2] Free Technologies"]
+         "text": "Effondrement économique",
+         "uniques": [
+         "[3] Free Technologies", "Gain a free [Any] belief", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Gain [-2500] [Gold]"]
     },
     {
-        "text": "Nuclear Effort",
+        "text": "Gloire aux Milices",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
+        "[15] free [Milice Impériale] units appear", "Gain control over [5] tiles [in capital]"]
     },
     {
-        "text": "Continuation War Alliance",
+        "text": "Renaissance de l'Empire",
         "uniques": [
-        "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
+        "Gain an extra spy", "Triggers voting for the Diplomatic Victory", "Triggers the following global alert: [Byzance souhaite être proclamée Empereur du Monde]"]
     },
     {
-        "text": "Flexible Navy",
+        "text": "Alliance avec la Seconde Rome",
         "uniques": [
-        "[+35]% Production when constructing [Water] units [in all cities] <upon entering a new era>"]
+        "Gain a free [Imperator Factory] [in capital] <for [nonNegativeAmount] turns>", "Empire enters a [12]-turn Golden Age",
+         "Gain control over [1] tiles [in your cities] <upon declaring a defensive pact> <for [30] turns>"]
     },
     {
-        "text": "Aviation Effort",
+        "text": "Défenseur de la Foi",
         "uniques": [
-        "[+35]% Production when constructing [Fighter] units [in all cities] <upon entering a new era>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
+        "Gain enough Faith for [200]% of a Great Prophet", "Gain a free [Any] belief", "[Garde Varègue] units gain the [Great Generals II] promotion"]
     },
     {
-        "text": "Nokia Industry",
+        "text": "Dictature Orwell",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
+        "Remove [Liberty] and refund [220]% of its cost", "Free Great Person", "Free Great Person", "Gain an extra spy", "Gain [100] [Happiness] <for [5] turns>"]
     },
     {
-        "text": "Strict Neutrality",
+        "text": "Couronnement d'un Nouvel Empereur",
         "uniques": [
-        "Gain [2000] [Gold]"]
+        "[2] Free Social Policies"]
     },
     {
-        "text": "Political Effort.",
+        "text": "Guerres aux Catholiques",
         "uniques": [
-        "[1] Free Social Policies"]
+        "Gain [1000] [Faith] <upon entering a war with [Hungary] Civilizations>",
+         "[10] free [Milice Impériale] units appear <upon declaring war on [Hungary] Civilizations> <for [20] turns>"]
     }
 
         ]
