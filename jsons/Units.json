@@ -3928,7 +3928,7 @@
 	"attackSound": "shot"
 	},
 	{
-	"name": "Milice Impériales",
+	"name": "Milice Impériale",
 	"uniqueTo": "Eastern Roman Empire",
 	"replaces": "Great War Infantry",
 	"requiredTech": "Ballistics",
