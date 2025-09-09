@@ -254,12 +254,12 @@
             {
                     "text": "Reichstag Fire Decree",
                     "uniques": [
-                    "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                    "Free social Policy <upon declaring war on [all] Civilizations> <for [15] turns>","[Land] units gain the [Flamethrower] promotion"]
   },
   {
                     "text": "Overthrow the Regime",
                     "uniques": [
-                    "Free Great Person","[4] population [in all cities]"]
+                    "Free Great Person", "[4] population [in all cities]", "Gain an extra spy <upon declaring war on [all] Civilizations> <for [15] turns>"]
  },
  {
     "text": "New Weimar Republic",
@@ -267,44 +267,35 @@
     "Free Great Person","[+10]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+35]% Production when constructing [Armored] units [in all cities] <for [300] turns>"]
 },
  {
-                    "text": "Allied Cooperation",
+                    "text": "Pacifism",
                     "uniques": [
-                    "[2] Free Technologies"]
+                    "Free Technology <upon declaring friendship> <for [20] turns>"]
 },
 {
-    "text": "Nuclear Effort",
+    "text": "The King Treaty",
     "uniques": [
-    "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
+    "[5] free [steam frigate] units appear <during the [New Imperial Era]>", "[5] free [Toperdo Boat] units appear <during the [New Imperial Era]>", "[5] free [Ironclad] units appear <during the [New Imperial Era]>", "[10] free [Destroyer] units appear <during the [First World Mar]>", "[(8] free [Battleship] units appear <during the [Second World War]>", "[5] free [Carrier] units appear <during the [Second World War]>",
+    "[5] free [Ironclad] units appear <during the [New Imperial Era]>", "[10] free [Destroyer] units appear <during the [First World War]>", "[(8] free [Battleship] units appear <during the [second World War]>", "[5] free [carrier] units appear <during the [Second World War]>", "[5] free [Ironclad] units appear <during the [Second World War]>", "[5] free [Phantom Carrier] units appear <upon entering a war with [all] civilizations> <during the [Cold War]>", "[5] free [Atomic Submarine] units appear <upon entering a war with [all] civilizations> <during the [Cold War]>", "[5] free [USS Nimitz] units appear <upon entering a war with [all] civilizations> <during the [Post cold War]>", "Gain [-300] [Gold]", "Triggers the following global alert: [The King a pris possession de 1'Allemagne, la flotte arrive]"]
 },
 {
-    "text": "Doctrine Effort",
+    "text": "Seven Nations Influence",
     "uniques": [
-    "[+35]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
+    "Gain a free [Universitas] [in capital]", "[2] Free Social Policies", "Empire enters golden age""]
 },
 {
-    "text": "Flexible Navy",
+    "text": "Loss of South Germany",
     "uniques": [
-    "[+35]% Production when constructing [Water] units [in all cities] <for [100] turns>"]
+    "[10] free [Great War Infantry] units appear <upon losing a city> <for [100] turns>", "[5] free [Great War Infantry] units appear <upon declaring war on [Alps' Confederation] civilizations> <for [20] turns>"]
 },
 {
-    "text": "Aviation Effort",
+    "text": "Nationalisation of the North",
     "uniques": [
-    "[+35]% Production when constructing [Fighter] units [in all cities] <for [100] turns>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
+    "Gain [1000] [Gold] <upon declaring war on [High Kingdom of the North] Civilizations> <for [20] turns>", "[5] free [Great War Infantry] units appear <upon declaring war on [High Kingdom OF the North] Civilizations> <for [20] turns>"]
 },
 {
-    "text": "Infrastructure Effort",
+    "text": "Debt",
     "uniques": [
-    "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
-},
-{
-    "text": "Economy Effort",
-    "uniques": [
-    "Gain [2000] [Gold]"]
-},
-{
-    "text": "Political Effort.",
-    "uniques": [
-    "[1] Free Social Policies"]
+    "Gain [10000] Gold", "Gain [-200] [Gold] <every [1] turns> <for [30] turns"]
 }
 
     ]
