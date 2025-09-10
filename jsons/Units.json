@@ -1534,6 +1534,21 @@
 		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Coucou volant",
+		"unitType": "Fighter",
+	            "uniqueTo": "Argentina",
+                "replaces": "Triplane",
+		"movement": 1,
+		"strength": 35,
+		"rangedStrength": 35,
+		"range": 5,
+		"interceptRange": 5,
+		"cost": 325,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"uniques": ["[10]% chance to intercept air attacks", "[+400]% Strength <vs [Land] units>", "[+600]% Strength <vs [Water] units>", "Self-destructs when attacking"],
+		"attackSound": "machinegun"
         {
 		"name": "Fighter",
 		"unitType": "Fighter",
@@ -3935,6 +3950,18 @@
 	"unitType": "Infantry",
 	"movement": 2,
 	"strength": 40,
+	"cost": 50,
+			 "uniques": ["[+20]% to Flank Attack bonuses","Never appears as a Barbarian unit"],
+	"attackSound": "shot"
+	},
+	{
+	"name": "Milice Gay",
+	"uniqueTo": "Argentina",
+	"replaces": "Great War Infantry",
+	"requiredTech": "Ballistics",
+	"unitType": "Infantry",
+	"movement": 2,
+	"strength": 35,
 	"cost": 50,
 			 "uniques": ["[+20]% to Flank Attack bonuses","Never appears as a Barbarian unit"],
 	"attackSound": "shot"
