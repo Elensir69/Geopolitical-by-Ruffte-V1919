@@ -43,7 +43,7 @@
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "[+24]% Strength bonus for [Janbaz] units within [2] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Unbuildable", "Uncapturable"],
+			"Unbuildable", "Uncapturable", "Great Person - [War]"],
 		"movement": 2
 	},
 	{
