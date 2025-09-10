@@ -3566,7 +3566,7 @@
     },
     {
 		"name": "Argentina",
-		"leaderName": "Justo José de Urquiza",
+		"leaderName": "President Peron",
 		"adjective": ["Argentinian"],
 		"startBias":["Plains"],
 		"preferredVictoryType": "Supremacy",
@@ -3598,7 +3598,7 @@
 		"leaderName": "Juan Manuel de Rosas",
 		"adjective": ["Argentinian"],
 		"startBias":["Plains"],
-		"preferredVictoryType": "Supremacy",
+		"preferredVictoryType": "Diplomatic",
 
 
         "startIntroPart1": "",
@@ -3614,9 +3614,11 @@
 		"outerColor": [255, 3, 3],
 		"innerColor": [29, 36, 48],
 		"favoredReligion": "Catholic",
-		"uniqueName": "Mueran los Salvajes Unitarios",
+		"uniqueName": "Picsoupride",
 		"uniques": ["LA",
-		"[+1 Production] from every [Mill]", "[+1 Production] from every [Stable]", "[+2 Food] from every [Slave Labor Plantation]"],
+		"[+6] Happiness from each type of luxury resource", "[+100]% Happiness from luxury resources gifted by City-States", "[120]% resources gifted by City-States",
+		"Resting point for Influence with City-States is increased by [35]", "[120]% XP required for promotions", "[+40]% Strength for cities <when fighting units from a Civilization with more Cities than you>",
+		"[-33]% [Gold] [in your cities]"],
 		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
                             "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
                             "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"],
