@@ -1549,6 +1549,7 @@
 		"requiredResource": "Oil",
 		"uniques": ["[10]% chance to intercept air attacks", "[+400]% Strength <vs [Land] units>", "[+600]% Strength <vs [Water] units>", "Self-destructs when attacking"],
 		"attackSound": "machinegun"
+			},
         {
 		"name": "Fighter",
 		"unitType": "Fighter",
