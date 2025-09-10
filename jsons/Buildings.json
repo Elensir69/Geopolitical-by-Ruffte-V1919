@@ -4,7 +4,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+33]% Strength <within [4] tiles of a [Holy site]>","[+2 Culture] from every [Mosque]",
-			"Only available <in cities without a [Religion - Judaism]>","Only available <in cities without a [Religion - Christianism]>",
+			"Only available <in cities without a [Religion - Judaism]>","Only available <in cities without a [Religion - Christianity]>",
 		    "Only available <for [Syria Palestina] Civilizations>"]
 	},
 	{
@@ -12,7 +12,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+33]% Production when constructing [Civilian] units [in all cities]","[+2 Culture] from every [Synagogue]",
-			"Only available <in cities without a [Religion - Islam]>","Only available <in cities without a [Religion - Christianism]>",
+			"Only available <in cities without a [Religion - Islam]>","Only available <in cities without a [Religion - Christianity]>",
 			"Only available <for [Syria Palestina] Civilizations>"]
 	},
 	{
