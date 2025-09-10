@@ -189,7 +189,7 @@
     },
     {
         "text": "comptoirs Mondiaux",
-       "uniques": [ "Provides [25] [0il] <for [30] turns>"]
+       "uniques": [ "Provides [25] [Oil] <for [30] turns>"]
     },
     {
          "text": "Relations européanistes",
@@ -225,7 +225,7 @@
  {
     "text": "New Weimar Republic",
     "uniques": [
-    "Free Great Person","[+10]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+35]% Production when constructing [Armored] units [in all cities] <for [300] turns>"]
+    "Free Great Person"]
 },
  {
                     "text": "Pacifism",
@@ -235,8 +235,8 @@
 {
     "text": "The King Treaty",
     "uniques": [
-    "[5] free [steam frigate] units appear <during the [New Imperial Era]>", "[5] free [Toperdo Boat] units appear <during the [New Imperial Era]>", "[5] free [Ironclad] units appear <during the [New Imperial Era]>", "[10] free [Destroyer] units appear <during the [First World Mar]>", "[8] free [Battleship] units appear <during the [Second World War]>", "[5] free [Carrier] units appear <during the [Second World War]>",
-    "[5] free [Phantom Carrier] units appear <upon entering a war with [all] civilizations> <during the [Cold War]>", "[5] free [Atomic Submarine] units appear <upon entering a war with [all] civilizations> <during the [Cold War]>", "[5] free [USS Nimitz] units appear <upon entering a war with [all] civilizations> <during the [Post cold War]>", "Gain [-300] [Gold]", "Triggers the following global alert: [The King a pris possession de 1'Allemagne, la flotte arrive]"]
+    "[5] free [Steam frigate] units appear <during the [New Imperial Era]>", "[5] free [Torpedo Boat] units appear <during the [New Imperial Era]>", "[5] free [Ironclad] units appear <during the [New Imperial Era]>", "[10] free [Destroyer] units appear <during the [First World War]>", "[8] free [Battleship] units appear <during the [Second World War]>", "[5] free [Carrier] units appear <during the [Second World War]>",
+    "[5] free [Phantom Carrier] units appear <upon entering a war with [all] Civilizations> <during the [Cold War]>", "[5] free [Atomic Submarine] units appear <upon entering a war with [all] Civilizations> <during the [Cold War]>", "[5] free [USS Nimitz] units appear <upon entering a war with [all] Civilizations> <during the [Post Cold War]>", "Gain [-300] [Gold]", "Triggers the following global alert: [The King a pris possession de 1'Allemagne, la flotte arrive]"]
 },
 {
     "text": "Seven Nations Influence",
@@ -251,12 +251,12 @@
 {
     "text": "Nationalisation of the North",
     "uniques": [
-    "Gain [1000] [Gold] <upon declaring war on [High Kingdom of the North] Civilizations> <for [20] turns>", "[5] free [Great War Infantry] units appear <upon declaring war on [High Kingdom OF the North] Civilizations> <for [20] turns>"]
+    "Gain [1000] [Gold] <upon declaring war on [High Kingdom of the North] Civilizations> <for [20] turns>", "[5] free [Great War Infantry] units appear <upon declaring war on [High Kingdom of the North] Civilizations> <for [20] turns>"]
 },
 {
     "text": "Debt",
     "uniques": [
-    "Gain [10000] Gold", "Gain [-200] [Gold] <every [1] turns> <for [30] turns"]
+    "Gain [10000] [Gold]", "Gain [-200] [Gold] <every [1] turns> <for [30] turns>"]
 }
 
     ]
@@ -317,7 +317,7 @@
         "uniques": [
         "[3] Free Social Policies", "Empire enters a [12]-turn Golden Age", "Triggers voting for the Diplomatic Victory",
          "Triggers the following global alert: [Deux couronnes réémergent, Deux ? Non, une, celle de l'Autriche et la Hongrie réeunie]",
-         "[8] free [Garde de Grenat] units appear <upon entering a war with [Alp's Confederation] Civilizations> <for [30] turns>"]
+         "[8] free [Garde de Grenat] units appear <upon entering a war with [Alps' Confederation] Civilizations> <for [30] turns>"]
     }
 
         ]
@@ -329,7 +329,7 @@
                 {
          "text": "Congrès de ses morts",
          "uniques": [
-         "[Gain a free [Congrès] [in capital]","Gain a free [buildingName] [in capital]", "Triggers voting for the Diplomatic Victory", "Triggers the following global alert: [Le Congrès des USA est pas content.]"]
+         "[Gain a free [Congrès] [in capital]", "Triggers voting for the Diplomatic Victory", "Triggers the following global alert: [Le Congrès des USA est pas content.]"]
       },
       {
         "text": "Communist America",
