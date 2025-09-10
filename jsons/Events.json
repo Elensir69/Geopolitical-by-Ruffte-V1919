@@ -304,58 +304,62 @@
     ]
 },
     {
-        "name": "Third AFR Focus",
+        "name": "Hungary Focus",
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
         "choices": [
                 {
-                        "text": "African Fascism",
+                        "text": "Guerre de Religion",
                         "uniques": [
-                        "[+15]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+                        "Gain [2000] [Faith] <upon conquering a city> <for [100] turns>"]
       },
       {
-                        "text": "African Communist Movement",
+                        "text": "Éternelle Reconstruction",
                         "uniques": [
-                        "Free Great Person","[4] population [in all cities]"]
+                        "Gain [40] [Gold] <upon building a [all] improvement> <for [40] turns>"]
      },
      {
-                        "text": "Technology Sharing",
+                        "text": "Éveil des Minorités",
                         "uniques": [
-                        "[2] Free Technologies"]
+                        "[2] free [Great War Infantry] units appear <in [Enemy] cities> <upon entering a war with [all] Civilizations> <for [50] turns>"]
     },
     {
-        "text": "Great Project",
+        "text": "Isolationnisme",
         "uniques": [
-        "[+45]% Production when constructing [Atomic Bomb] units [in all cities] <upon entering a new era>"]
+        "Free Social Policy <upon entering a Golden Age> <for [25] turns>"]
     },
     {
-        "text": "African Axis",
+        "text": "Croisade Catholique",
         "uniques": [
-        "[+45]% Production when constructing [Infantry] units [in all cities] <upon entering a new era>"]
+        "[8] free [Garde de Grenat] units appear <upon entering a war with [Eastern Roman Empire] Civilizations> <for [30] turns>",
+         "Gain [30] [Faith] <upon defeating a [Military] unit> <for [30] turns>"]
     },
     {
-        "text": "Flexible Navy",
+        "text": "Colonies Religieuses",
         "uniques": [
-        "[+35]% Production when constructing [Water] units [in all cities] <for [100] turns>"]
+        "[3] free [Colons français] units appear"]
     },
     {
-        "text": "Aviation Effort",
+        "text": "Déchéance Sécuritaire et Bidonvilles",
         "uniques": [
-        "[+35]% Production when constructing [Fighter] units [in all cities] <for [100] turns>","[+35]% Production when constructing [Bomber] units [in all cities] <for [100] turns>"]
+        "[10] population [in capital]", "[5] population in a random city <upon defeating a [Military] unit>",
+        "Gain [-100] [Happiness] <for [10] turns>"]
     },
     {
-        "text": "Infrastructure Effort",
+        "text": "Mainmise sur l'économie",
         "uniques": [
-        "[+40]% Production when constructing [Production] buildings [in all cities] <upon entering a new era>","[+40]% Production when constructing [Science] buildings [in all cities] <upon entering a new era>"]
+        "Gain a free [Industrie du Paprika] [in your cities]", "Gain [-100] [Happiness] <for [3] turns>"]
     },
     {
-        "text": "Economy Effort",
+        "text": "Infiltration du Panier",
         "uniques": [
-        "Gain [2000] [Gold]"]
+        "Gain an extra spy", "Promotes all spies [1] time(s)"]
     },
     {
-        "text": "Humanitarian Effort.",
+        "text": "Renaissance de l'Autriche-Hongrie",
         "uniques": [
-        "[1] Free Social Policies"]
+        "[3] Free Social Policies", "Empire enters a [12]-turn Golden Age", "Triggers voting for the Diplomatic Victory",
+         "Triggers the following global alert: [Deux couronnes réémergent, Deux ? Non, une, celle de l'Autriche et la Hongrie réeunie]",
+         "[8] free [Garde de Grenat] units appear <upon entering a war with [Alp's Confederation] Civilizations> <for [30] turns>"]
     }
 
         ]
