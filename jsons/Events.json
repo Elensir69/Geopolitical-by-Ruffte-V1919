@@ -116,8 +116,8 @@
     {
         "text": "Guerres aux Catholiques",
         "uniques": [
-        "Gain [1000] [Faith] <upon entering a war with [Hungary] s>",
-         "[10] free [Milice Impériale] units appear <upon declaring war on [Hungary] s> <for [20] turns>"]
+        "Gain [1000] [Faith] <upon entering a war with [Hungary] Civilizations>",
+         "[10] free [Milice Impériale] units appear <upon declaring war on [Hungary] Civilizations> <for [20] turns>"]
     }
 
         ]
@@ -129,7 +129,7 @@
                 {
         "text": "March on the Alps",
         "uniques": [
-        "Empire enters golden age <upon declaring war on [Alps' Confederation] s> <for [20] turns>", "Remove [Swiss Bank] [in your cities]","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
+        "Empire enters golden age <upon declaring war on [Alps' Confederation] Civilizations> <for [20] turns>", "Remove [Swiss Bank] [in your cities]","Gain [200] [Culture]","[Land] units gain the [Flamethrower] promotion"]
       },
       {
         "text": "Overthrow Mussolini",
@@ -167,7 +167,7 @@
                 {
                         "text": "Union des Germanophones",
                         "uniques": [
-                        "[5] free [Great War Infantry] units appear <upon declaring war on [German Empire] s>", "Gain [200] [Culture]", "[Land] units gain the [Flamethrower] promotion", "Triggers the following global alert: [Gare au pangermanisme de la Confédération Alpine...]"]
+                        "[5] free [Great War Infantry] units appear <upon declaring war on [German Empire] Civilizations>", "Gain [200] [Culture]", "[Land] units gain the [Flamethrower] promotion", "Triggers the following global alert: [Gare au pangermanisme de la Confédération Alpine...]"]
       },
       {
                         "text": "Politique des régimes spéciaux",
@@ -215,12 +215,12 @@
             {
                     "text": "Reichstag Fire Decree",
                     "uniques": [
-                    "Free social Policy <upon declaring war on [all] s> <for [15] turns>","[Land] units gain the [Flamethrower] promotion"]
+                    "Free social Policy <upon declaring war on [all] Civilizations> <for [15] turns>","[Land] units gain the [Flamethrower] promotion"]
   },
   {
                     "text": "Overthrow the Regime",
                     "uniques": [
-                    "Free Great Person", "[4] population [in all cities]", "Gain an extra spy <upon declaring war on [all] s> <for [15] turns>"]
+                    "Free Great Person", "[4] population [in all cities]", "Gain an extra spy <upon declaring war on [all] Civilizations> <for [15] turns>"]
  },
  {
     "text": "New Weimar Republic",
@@ -236,7 +236,7 @@
     "text": "The King Treaty",
     "uniques": [
     "[5] free [Steam frigate] units appear <during the [New Imperial Era]>", "[5] free [Torpedo Boat] units appear <during the [New Imperial Era]>", "[5] free [Ironclad] units appear <during the [New Imperial Era]>", "[10] free [Destroyer] units appear <during the [First World War]>", "[8] free [Battleship] units appear <during the [Second World War]>", "[5] free [Carrier] units appear <during the [Second World War]>",
-    "[5] free [Phantom Carrier] units appear <upon entering a war with [all] s> <during the [Cold War]>", "[5] free [Atomic Submarine] units appear <upon entering a war with [all] s> <during the [Cold War]>", "[5] free [USS Nimitz] units appear <upon entering a war with [all] s> <during the [Post Cold War]>", "Gain [-300] [Gold]", "Triggers the following global alert: [The King a pris possession de 1'Allemagne, la flotte arrive]"]
+    "[5] free [Phantom Carrier] units appear <upon entering a war with [all] Civilizations> <during the [Cold War]>", "[5] free [Atomic Submarine] units appear <upon entering a war with [all] Civilizations> <during the [Cold War]>", "[5] free [USS Nimitz] units appear <upon entering a war with [all] Civilizations> <during the [Post Cold War]>", "Gain [-300] [Gold]", "Triggers the following global alert: [The King a pris possession de 1'Allemagne, la flotte arrive]"]
 },
 {
     "text": "Seven Nations Influence",
