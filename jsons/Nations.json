@@ -51,7 +51,7 @@
 	"outerColor": [82, 32, 7],
 	"innerColor": [255, 177, 61],
 	"uniqueName": "Adnyapatra",
-	"uniques": ["[+10]% growth [in coastal cities]","[+20]% Production when constructing [Gold] buildings [in all cities]","[2] free [Gurab] units appear <upon discovering [Industrialization] technology>"],
+	"uniques": ["[+10]% growth <in [Coastal] cities>","[+20]% Production when constructing [Gold] buildings [in all cities]","[2] free [Gurab] units appear <upon discovering [Industrialization] technology>"],
 	"cities": ["Raigad", "Pune", "Sangameshwar", "Vishalgad", "Ginge", "Sinhagad", "Dhar", "Indore", "Gwalior", "Gingee", "Palkhed", "Vasai", "Arcot", "Tiruchirappalli", "Katak", "Raipur", "Ratanpur", "Bilaspur"],
 	"spyNames": ["Saki"]
     },
@@ -1454,7 +1454,7 @@
 		"innerColor": [120, 215, 250],
 		"uniqueName": "Developpement beneath the Walls",
 		"uniques": ["Non Middle Eastern",
-		"[+2 Production] from [Fort] tiles [in your cities]", "[+2 Production] from [Trenches] tiles [in your cities]", "[+2 Production] from [Bunker] tiles [in your cities]",
+		"[+2 Production] from [Fort] tiles [in your cities]", "[+2 Production] from [Trench] tiles [in your cities]", "[+2 Production] from [Bunker] tiles [in your cities]",
 		"[+2 Production] from [Barbed Wire] tiles [in your cities]", "[+2 Production] from [Military Factory] tiles [in your cities]", "[+20]% [Production] [in your cities] <during a Golden Age>",
 		"[-20]% [Culture] [in your cities] <when not in a Golden Age>", "Gain [-20] [Gold] <(modified by game progress up to [400]%)> <every [4] turns> <with [20]% chance>"],
 		"cities": ["Praha","Brno","Bratislava","Liberec","Ostrava","Koslice","Olomouc"," Plzen"],
