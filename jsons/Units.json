@@ -328,6 +328,16 @@
 		"religiousStrength": 1000
 	},
 	{
+		"name": "Missionary",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can Spread Religion <for [2] movement> <[5] times> <after which this unit is consumed>",
+			"May enter foreign tiles without open borders", "[-1] Sight", "Religious Unit", "Only available <when religion is enabled>"],
+		"movement": 2,
+		"cost": 120
+		"religiousStrength": 700
+	},
+	{
 		"name": "Imam du Turkestan",
 		"unitType": "Civilian",
 		"uniqueTo": "Turkestan",
