@@ -217,7 +217,7 @@
 		"movement": 2,
 		"strength": 35,
 		"cost": 150,
-        "uniques": ["[+40]% Strength <when fighting in [Hill] tiles>","Only available <if [Court - China - Uzbek] is constructed>","Never appears as a Barbarian unit"],
+        "uniques": ["[+40]% Strength <when fighting in [Hill] tiles>","Only available <if [Court - China - Turkic] is constructed>","Never appears as a Barbarian unit"],
 		"attackSound": "shot"
         },
 		{
