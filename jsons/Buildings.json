@@ -192,7 +192,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Aotearoa]>","Only available <in cities without a [Voyage to Taputapuātea]>","Only available <in cities without a [Voyage to Samoa]>",
-		"Only available <in cities without a [Voyage to Voyage to Hawaiki]>",
+		"Only available <in cities without a [Voyage to Hawaiki]>",
 			"[+1 Gold] per [5] population [in all cities]","[+7]% Production when constructing [Archaic Infantry] units [in this city]","[+7]% Production when constructing [Water] units [in this city]",
 			"Only available <for [Polynesian] Civilizations>"]
 	},
@@ -209,7 +209,7 @@
 		"name": "Voyage to Taputapuātea",
 		"isNationalWonder": true,
 		"cost": 100,
-		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Aotearoa]>","Only available <in cities without a [Voyage to Voyage to Hawaiki]>","Only available <in cities without a [Voyage to Samoa]>",
+		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Aotearoa]>","Only available <in cities without a [Voyage to Hawaiki]>","Only available <in cities without a [Voyage to Samoa]>",
 		"Only available <in cities without a [Voyage to Tonga]>",
 			"[+1 Gold] per [5] population [in all cities]","[+1 Gold] from every [Mine]","[+7]% Production when constructing [Water] units [in this city]",
 			"Only available <for [Polynesian] Civilizations>"]
@@ -218,7 +218,7 @@
 		"name": "Voyage to Aotearoa",
 		"isNationalWonder": true,
 		"cost": 100,
-		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Voyage to Hawaiki]>","Only available <in cities without a [Voyage to Taputapuātea]>","Only available <in cities without a [Voyage to Samoa]>",
+		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Hawaiki]>","Only available <in cities without a [Voyage to Taputapuātea]>","Only available <in cities without a [Voyage to Samoa]>",
 		"Only available <in cities without a [Voyage to Tonga]>",
 			"[+1 Gold] per [5] population [in all cities]","[+1 Science] per [6] population [in all cities]","[+7]% Production when constructing [Water] units [in this city]",
 			"Only available <for [Polynesian] Civilizations>"]
@@ -330,7 +330,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Gold] per [5] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+3]% Production when constructing [All] units [in this city]",
-			"Only available <in cities without a [Court - Nubian - Ottoman]>","Only available <in cities without a [Court - British - Ottoman]>",
+			"Only available <in cities without a [Court - Nubian - Sudan]>","Only available <in cities without a [Court - British - Sudan]>",
 			"Only available <for [Sudan] Civilizations>"]
 	},
 	{
@@ -338,7 +338,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Food] from every [Mill]","[+1 Food] per [3] population [in all cities]","[+1 Gold] per [8] population [in all cities]",
-			"Only available <in cities without a [Court - Khedive - Ottoman]>","Only available <in cities without a [Court - British - Ottoman]>",
+			"Only available <in cities without a [Court - Khedive - Sudan]>","Only available <in cities without a [Court - British - Sudan]>",
 			"Only available <for [Sudan] Civilizations>"]
 	},
 	{
@@ -346,7 +346,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[4] free [Sepoy] units appear <upon entering the [First World War]>","[+1 Production] from [Mine] tiles [in this city] <during a Golden Age>",
-			"Only available <in cities without a [Court - Nubian - Ottoman]>","Only available <in cities without a [Court - Khedive - Ottoman]>",
+			"Only available <in cities without a [Court - Nubian - Sudan]>","Only available <in cities without a [Court - Khedive - Sudan]>",
 			"Only available <for [Sudan] Civilizations>"]
 	},
 	{
@@ -398,25 +398,25 @@
 			"Only available <for [The Mughals] Civilizations>"]
 	},
 	{
-		"name": "Court - Persian - Uzbek",
+		"name": "Court - Persian - Turkic",
 		"isNationalWonder": true,
 		"cost": 100,
-		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Court - Russia - Uzbek]>","Only available <in cities without a [Court - China - Uzbek]>",
-			"[1] free [Sardar] units appear <upon discovering [Dynamite] technology>","[4] free [Janbaz] units appear <upon discovering [Dynamite] technology>","Only available <for [Uzbekistan] Civilizations>"]
+		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Court - Russia - Turkic]>","Only available <in cities without a [Court - China - Turkic]>",
+			"[1] free [Sardar] units appear <upon discovering [Dynamite] technology>","[4] free [Janbaz] units appear <upon discovering [Dynamite] technology>","Only available <for [Turkestan] Civilizations>"]
 	},
 	{
-		"name": "Court - Russia - Uzbek",
+		"name": "Court - Russia - Turkic",
 		"isNationalWonder": true,
 		"cost": 100,
-		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Court - Persian - Uzbek]>","Only available <in cities without a [Court - China - Uzbek]>",
-			"Comment [Enables the Frontovik unit]","Comment [Enables the Canton School building]","[+3]% Production when constructing [All] units [in this city]","Only available <for [Uzbekistan] Civilizations>"]
+		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Court - Persian - Turkic]>","Only available <in cities without a [Court - China - Turkic]>",
+			"Comment [Enables the Frontovik unit]","Comment [Enables the Canton School building]","[+3]% Production when constructing [All] units [in this city]","Only available <for [Turkestan] Civilizations>"]
 	},
 	{
-		"name": "Court - China - Uzbek",
+		"name": "Court - China - Turkic",
 		"isNationalWonder": true,
 		"cost": 100,
-		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Court - Russia - Uzbek]>","Only available <in cities without a [Court - Persian - Uzbek]>",
-			"[+1 Gold] per [5] population [in all cities]","Comment [Enables the Kansu Brave unit]","Only available <for [Uzbekistan] Civilizations>"]
+		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Court - Russia - Turkic]>","Only available <in cities without a [Court - Persian - Turkic]>",
+			"[+1 Gold] per [5] population [in all cities]","Comment [Enables the Kansu Brave unit]","Only available <for [Turkestan] Civilizations>"]
 	},
 	{
 		"name": "Court - Ottoman - Circassia",
@@ -471,11 +471,11 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+24]% Production when constructing [Infantry] units [in all cities]",
-			"Only available <in cities without a [Court - Uzbek - Kazakh]>","Only available <in cities without a [Court - Kazakh Nomads - Kazakh]>",
+			"Only available <in cities without a [Court - Turkic - Kazakh]>","Only available <in cities without a [Court - Kazakh Nomads - Kazakh]>",
 			"Only available <for [The Kazakhs] Civilizations>"]
 	},
 	{
-		"name": "Court - Uzbek - Kazakh",
+		"name": "Court - Turkic - Kazakh",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Faith] from [Hunter Lodge] tiles [in this city]",
@@ -487,7 +487,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Food] from [House] tiles [in this city]",
-			"Only available <in cities without a [Court - Uzbek - Kazakh]>","Only available <in cities without a [Court - Russia - Kazakh]>",
+			"Only available <in cities without a [Court - Turkic - Kazakh]>","Only available <in cities without a [Court - Russia - Kazakh]>",
 			"Only available <for [The Kazakhs] Civilizations>"]
 	},
 	{
@@ -743,7 +743,7 @@
 		"isNationalWonder":true,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Only available <in cities with a [Court - Russia - Uzbek]>","Comment [Enables the Frontovik unit]"],
+		"uniques": ["Only available <in cities with a [Court - Russia - Turkic]>","Comment [Enables the Frontovik unit]"],
 		"cost": 100
 	},
 	{
@@ -1603,7 +1603,7 @@
 	{
 		"name": "Imperator Factory",
 		"gold": 1,
-                "uniques": ["","Unsellable", "Unbuildable", "[+20]% Production when constructing [Military] units [in this cities]"],
+                "uniques": ["Unsellable", "Unbuildable", "[+20]% Production when constructing [Military] units [in this city]"],
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 	},
