@@ -200,7 +200,7 @@
 		"name": "Voyage to Samoa",
 		"isNationalWonder": true,
 		"cost": 100,
-		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Aotearoa]>","Only available <in cities without a [Voyage to Taputapuātea]>","Only available <in cities without a [Voyage to Voyage to Hawaiki]>",
+		"uniques": ["Consumes [1] [National Choice]","Only available <in cities without a [Voyage to Aotearoa]>","Only available <in cities without a [Voyage to Taputapuātea]>","Only available <in cities without a [Voyage to Hawaiki]>",
 		"Only available <in cities without a [Voyage to Tonga]>",
 			"[+1 Gold] per [5] population [in all cities]","[+15]% [Happiness] [in this city]","[+7]% Production when constructing [Water] units [in this city]",
 			"Only available <for [Polynesian] Civilizations>"]
@@ -443,7 +443,7 @@
 			"Only available <for [Circassia] Civilizations>"]
 	},
 	{
-		"name": "Court - Nejd - Bedouin",
+		"name": "Court - Kingdom of Saudi Arabia - Bedouin",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+2 Food] from [Camel] tiles [in this city]",
@@ -455,7 +455,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+80]% Strength <vs [Barbarian] units>",
-			"Only available <in cities without a [Court - Nejd - Bedouin]>","Only available <in cities without a [Court - Oman - Bedouin]>",
+			"Only available <in cities without a [Court - Kingdom of Saudi Arabia - Bedouin]>","Only available <in cities without a [Court - Oman - Bedouin]>",
 			"Only available <for [The Bedouins] Civilizations>"]
 	},
 	{
@@ -463,7 +463,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+2 Food] from [Camel] tiles [in this city]",
-			"Only available <in cities without a [Court - Hejaz - Bedouin]>","Only available <in cities without a [Court - Nejd - Bedouin]>",
+			"Only available <in cities without a [Court - Hejaz - Bedouin]>","Only available <in cities without a [Court - Kingdom of Saudi Arabia - Bedouin]>",
 			"Only available <for [The Bedouins] Civilizations>"]
 	},
 	{
@@ -574,11 +574,11 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Gold] per [5] population [in all cities]","[+1 Production] per [3] population [in all cities]","[+3]% Production when constructing [All] units [in this city]",
-			"Only available <in cities without a [Court - Nejd - Karamanli]>","Only available <in cities without a [Court - Ottoman - Karamanli]>",
+			"Only available <in cities without a [Court - Kingdom of Saudi Arabia - Karamanli]>","Only available <in cities without a [Court - Ottoman - Karamanli]>",
 			"Only available <for [The Karamanli] Civilizations>"]
 	},
 	{
-		"name": "Court - Nejd - Karamanli",
+		"name": "Court - Kingdom of Saudi Arabia - Karamanli",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+2 Food] from [Camel] tiles [in all cities]",
@@ -590,7 +590,7 @@
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+36]% Production when constructing [Artillery] units [in all cities]",
-			"Only available <in cities without a [Court - Nejd - Karamanli]>","Only available <in cities without a [Court - French - Karamanli]>",
+			"Only available <in cities without a [Court - Kingdom of Saudi Arabia - Karamanli]>","Only available <in cities without a [Court - French - Karamanli]>",
 			"Only available <for [The Karamanli] Civilizations>"]
 	},
 	{
@@ -714,28 +714,28 @@
 			"Only available <for [The Busaid] Civilizations>"]
 	},
 	{
-		"name": "Court - Wahhabi - Nejd",
+		"name": "Court - Wahhabi - Kingdom of Saudi Arabia",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+1 Happiness] from every [Temple]","[+1 Happiness] per [4] population [in all cities]",
-			"Only available <in cities without a [Court - Nejd Tribes - Nejd]>","Only available <in cities without a [Court - British - Nejd]>",
-			"Only available <for [Nejd] Civilizations>"]
+			"Only available <in cities without a [Court - Kingdom of Saudi Arabia Tribes - Kingdom of Saudi Arabia]>","Only available <in cities without a [Court - British - Kingdom of Saudi Arabia]>",
+			"Only available <for [Kingdom of Saudi Arabia] Civilizations>"]
 	},
 	{
-		"name": "Court - Nejd Tribes - Nejd",
+		"name": "Court - Kingdom of Saudi Arabia Tribes - Kingdom of Saudi Arabia",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[+2 Food] from [Camel] tiles [in all cities]",
-			"Only available <in cities without a [Court - Wahhabi - Nejd]>","Only available <in cities without a [Court - British - Nejd]>",
-			"Only available <for [Nejd] Civilizations>"]
+			"Only available <in cities without a [Court - Wahhabi - Kingdom of Saudi Arabia]>","Only available <in cities without a [Court - British - Kingdom of Saudi Arabia]>",
+			"Only available <for [Kingdom of Saudi Arabia] Civilizations>"]
 	},
 	{
-		"name": "Court - British - Nejd",
+		"name": "Court - British - Kingdom of Saudi Arabia",
 		"isNationalWonder": true,
 		"cost": 100,
 		"uniques": ["Consumes [1] [National Choice]","[4] free [Sepoy] units appear <upon entering the [First World War]>","[+1 Production] from [Mine] tiles [in this city] <during a Golden Age>",
-			"Only available <in cities without a [Court - Nejd Tribes - Nejd]>","Only available <in cities without a [Court - Wahhabi - Nejd]>",
-			"Only available <for [Nejd] Civilizations>"]
+			"Only available <in cities without a [Court - Kingdom of Saudi Arabia Tribes - Kingdom of Saudi Arabia]>","Only available <in cities without a [Court - Wahhabi - Kingdom of Saudi Arabia]>",
+			"Only available <for [Kingdom of Saudi Arabia] Civilizations>"]
 	},
 	/////
 	{
