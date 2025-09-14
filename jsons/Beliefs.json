@@ -60,6 +60,16 @@
         "type": "Pantheon",
         "uniques": ["[+4 Food] from every [Temple] <during a Golden Age>"]
     },
+    {
+        "name": "Biology Faith",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food] from every [Forest] tiles"]
+    },
+        {
+        "name": "Hydrology",
+        "type": "Pantheon",
+        "uniques": ["[+4 Food] in cities on [River] tiles"]
+    },
 
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
 
@@ -102,6 +112,11 @@
         "name": "Enthusiasm",
         "type": "Follower",
         "uniques": ["[+2 Happiness] from every [Temple]"]
+    },
+    {
+        "name": "Path of the Repentant",
+        "type": "Follower",
+        "uniques": ["[+2 Science] from each Trade Route"]
     },
 
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
