@@ -650,6 +650,16 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "Colons anglais",
+		"uniqueTo": "Birtish Empire",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 260,
+		"uniques": ["Founds a new puppet city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
 			{
 		"name": "Faith of Russia",
 		"uniqueTo": "Russian National Forces",
@@ -4168,5 +4178,67 @@
 					"uniques": ["[+30]% Strength <vs [Heavy Cavalry] units>","[+30]% Strength <vs [Light Cavalry] units>","Double movement in [Desert]","Never appears as a Barbarian unit"],
 			"cost": 70,
 			"attackSound": "shot"
-			}
+			},
+
+
+// Unique
+
+	{
+		"name": "Phalanx",
+			"uniqueTo": "Eastern Roman Empire",
+            "replaces": "Battleship",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 72,
+		"rangedStrength": 72,
+		"range": 3,
+		"cost": 375,
+		"requiredResource": "Oil",
+		"requiredTech": "Electronics",
+		"uniques": ["Never appears as a Barbarian unit", "[+20]% Strength bonus for [Water] units within [2] tiles", "Limited to [1] per Civilization"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
+	},
+        {
+		"name": "Helios",
+			"uniqueTo": "Eastern Roman Empire",
+            "replaces": "Fighter",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 35,
+		"rangedStrength": 35,
+		"range": 8,
+		"interceptRange": 8,
+		"cost": 300,
+		"requiredTech": "Advanced Flight",
+        "obsoleteTech": "Korea War",
+		"requiredResource": "Oil",
+		"uniques": ["[80]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>", "[-66]% Strength <vs [Air] units>"],
+		"attackSound": "machinegun"
+	},
+	        {
+		"name": "Hoplite",
+			"uniqueTo": "Eastern Roman Empire",
+            "replaces": "Tank",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 82,
+		"cost": 400,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+    {
+		"name": "Infanterie mécanisée + Félons",
+			"uniqueTo": "Eastern Roman Empire",
+            "replaces": "Infantry",
+                "requiredTech": "Plastics",
+		"unitType": "Infantry",
+		"movement": 5,
+		"strength": 45,
+		"cost": 240,
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+        },
 ] 
