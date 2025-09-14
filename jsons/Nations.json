@@ -3950,8 +3950,8 @@
 		"cities": ["Macau"]
 	},
 {
-		"name": "Edinburgh",
-		"adjective": ["Edinburgh"],
+		"name": "Wellington",
+		"adjective": ["New-Zeland"],
 		"cityStateType": "European",
 
 		"declaringWar": "We cant forgive you!",
@@ -4005,8 +4005,8 @@
 		"cities": ["Singapore"]
 	},
 {
-		"name": "Calcutta",
-		"adjective": ["Calcutta"],
+		"name": "Lhassa",
+		"adjective": ["Tibetans"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4054,8 +4054,8 @@
 		"cities": ["Great Zimbabwe"]
 	},
 {
-		"name": "Lagos",
-		"adjective": ["Lagos"],
+		"name": "Djibouti",
+		"adjective": ["Djiboutians"],
 		"cityStateType": "African",
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
@@ -4105,8 +4105,8 @@
 		"cities": ["Baghdad"]
 	},
 {
-		"name": "Beirut",
-		"adjective": ["Beirut"],
+		"name": "Jérusalemn",
+		"adjective": ["Israeli"],
 		"cityStateType": "Middle Eastern",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4123,8 +4123,8 @@
 
 
 {
-		"name": "Kelmis",
-		"adjective": ["Kelmis"],
+		"name": "Dublin",
+		"adjective": ["Irish"],
 		"cityStateType": "European",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4135,8 +4135,8 @@
 		"cities": ["Kelmis"]
 	},
 {
-		"name": "Cospaia",
-		"adjective": ["Cospaia"],
+		"name": "Tirana",
+		"adjective": ["Albanians"],
 		"cityStateType": "European",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4171,8 +4171,8 @@
 		"cities": ["Jorhat"]
 	},
 {
-		"name": "Arochukwu",
-		"adjective": ["Arochukwu"],
+		"name": "Libreville",
+		"adjective": ["Fang"],
 		"cityStateType": "African",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4320,8 +4320,8 @@
 
 
 	{
-		"name": "Zuni Pueblo",
-		"adjective": ["Zuni Pueblo"],
+		"name": "Républiques Tribales d'Amazonie",
+		"adjective": ["Amazonians"],
 		"cityStateType": "Native American",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4333,8 +4333,8 @@
 		"cities": ["Zuni Pueblo"]
 	},
 	{
-		"name": "Hopi Villages",
-		"adjective": ["Hopi Villages"],
+		"name": "Mexico",
+		"adjective": ["Mexicans"],
 		"cityStateType": "Native American",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4372,8 +4372,8 @@
 		"cities": ["Arequipa"]
 	},
 	{
-		"name": "Río Negro",
-		"adjective": ["Río Negro"],
+		"name": "Panama",
+		"adjective": ["Panama"],
 		"cityStateType": "Native American",
 
 		"declaringWar": "You leave us no choice. War it must be.",
