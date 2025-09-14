@@ -13,7 +13,7 @@
                                 When Dickens wrote his novels and Darwin studied nature
                                 The poets sang of beauty, love, and sorrow
                                 And the painters captured scenes of yesterday and tomorrow",
-				"uniques": ["Starting tech","Enables [Embarked] units to enter ocean tiles","Enables embarkation for land units"]
+				"uniques": ["Starting tech","Enables [Embarked] units to enter ocean tiles","Enables embarkation for land units", "Enables Open Borders agreements", "Enables Defensive Pacts", ]
 			}
 		]
 	},
@@ -66,6 +66,7 @@
 			{
 				"name": "Scientific Theory",
 				"row": 3,
+				"uniques": ["Enables Research agreements"],
 				"prerequisites": ["Hunting Pets"],
 			},
 			{
