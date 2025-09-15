@@ -122,6 +122,41 @@
 
         ]
 },
+{
+        "name": "Russian National Forces Focus",
+        "text": "The World is resolutely opposed to the Regeneration of our glorious Motherland! We are now at a crossroads and must choose the path to follow for decades to come so that our Eternal Russia can rise again from the ashes of Civil War! The National Martyr demands ever greater sacrifices, but we will never hesitate to burn everything we have for the Motherland.",
+        "choices": [
+                {
+        "text": "The National-Humanist Front",
+        "uniques": [
+        "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Gain [100] [Production] <in [Your] cities>"], "Triggers the following global alert: [Les Fascistes ont renversé le Gouvernement de Rostov]"
+      },
+      {
+        "text": "The Russian National-Humanist Republic",
+        "uniques": ["Gain [20] [Happiness] <for [10] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Free Great Person", "Triggers the following global alert: [La Démocratie Nationale Humaniste est Proclamée à Rostov]"
+     },
+     {
+        "text": "The Eurasian Corporate State",
+        "uniques": [  "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>",
+        "[2] Free Technologies", "Gain [100] [Production] <in [Your] cities>", "Free Great Person", "Triggers the following global alert: [Les Ambitions Eurasiatique des Oligarques Russes n’ont plus de limites !]"]
+    },
+    {
+        "text": "The Russian Empire Revival",
+        "uniques": [
+        "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>", "[2] Free Social Policies", "Free Great Person", "Triggers the following global alert: [La Restauration Impériale prend place à Rostov]"]
+    },
+         {
+        "text": "The National Revolution Triumphant",
+        "uniques": ["Remove [Liberty] and refund [110]% of its cost", "Gain [10] [Happiness] <for [25] turns>","[1] population [in all cities]", "Triggers the following global alert: [La Révolution Nationale Triomphe à Rostov]"]
+    }
+,
+{
+        "text": "The Russian Accelerationist Movement Overthrown the Government",
+        "uniques": [ "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [100] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "[2] Free Technologies", "Gain [-250] [Gold] <for [25] turns> <every [1] turns>", "Gain [100] [Production] <in [Your] cities>", "Triggers the following global alert: [Les accelérationnistes prennent le pouvoir à Rostov, le Rêve Démocratique Russe est mort... La Réalité n’a plus de prises sur ces terres...]" ]
+    }
+
+        ]
+},
     {
         "name": "Italy Focus",
         "text": "The world is once again engulfed in war, and our nation stands at a critical crossroads. This focus will lead us in adopting a comprehensive strategy to confront the looming threats and secure our future. We must strengthen our military capabilities, develop advanced weaponry, and coordinate our efforts with allied nations. Additionally, we must address the home front, ensuring our citizens' morale and well-being remain strong. For nations influenced by the war's far-reaching effects, strategic planning and collaboration will be key to navigating this turbulent period and emerging stronger",
