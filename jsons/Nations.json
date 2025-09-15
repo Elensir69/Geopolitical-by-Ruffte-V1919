@@ -3899,47 +3899,9 @@
 
 	// City-States sorted by cityStateType, name
 
-
-
-        {
-		"name": "Kokand",
-		"adjective": ["Kokand"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [240, 56, 36],
-		"cities": ["Kokand"]
-	},
-         {
-		"name": "Kalat",
-		"adjective": ["Kalat"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [252, 113, 58],
-		"cities": ["Kalat"]
-	},
-        {
-		"name": "Sindv",
-		"adjective": ["Sindv"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "We cant forgive you!",
-		"attacked": "This will be the beggining of your nightmares...",
-		"defeated": "We cannot lose!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [247, 180, 104],
-		"cities": ["Sindv"]
-	},
 {
-		"name": "Macau",
-		"adjective": ["Macau"],
+		"name": "Shanghai",
+		"adjective": ["Shanghaians"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "We cant forgive you!",
@@ -3947,10 +3909,10 @@
 		"defeated": "We cannot lose!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [252, 210, 56],
-		"cities": ["Macau"]
+		"cities": ["Shanghai"]
 	},
 {
-		"name": "Wellington",
+		"name": "New-Zealand",
 		"adjective": ["New-Zeland"],
 		"cityStateType": "European",
 
@@ -3959,7 +3921,7 @@
 		"defeated": "We cannot lose!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 207, 103],
-		"cities": ["Edinburgh"]
+		"cities": ["Wellington"]
 	},
 {
 		"name": "Geneva",
@@ -3973,11 +3935,6 @@
 		"innerColor": [102, 186, 28],
 		"cities": ["Geneva"]
 	},
-
-
-
-
-
 
 	{
 		"name": "Malta",
@@ -4016,34 +3973,9 @@
 		"innerColor": [90, 184, 170],
 		"cities": ["Calcutta"]
 	},
-
         {
-		"name": "Timbuktu",
-		"adjective": ["Timbuktu"],
-		"cityStateType": "African",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [120, 147, 214],
-		"cities": ["Timbuktu"]
-	},
-        {
-		"name": "Mombasa",
-		"adjective": ["Mombasa"],
-		"cityStateType": "African",
-
-		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
-		"attacked": "Very well, we will kick you back to the ancient era!",
-		"defeated": "This isn't how it is supposed to be!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [148, 87, 235],
-		"cities": ["Mombasa"]
-	},
-        {
-		"name": "Great Zimbabwe",
-		"adjective": ["Great Zimbabwe"],
+		"name": "South Sudan",
+		"adjective": ["Sudaniens"],
 		"cityStateType": "African",
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
@@ -4051,7 +3983,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [237, 121, 252],
-		"cities": ["Great Zimbabwe"]
+		"cities": ["Juba"]
 	},
 {
 		"name": "Djibouti",
@@ -4063,7 +3995,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [232, 88, 177],
-		"cities": ["Lagos"]
+		"cities": ["Djibouti"]
 	},
 
 
@@ -4080,8 +4012,8 @@
 		"cities": ["San Francisco"]
 	},
 {
-		"name": "Montreal",
-		"adjective": ["Montreal"],
+		"name": "Canada",
+		"adjective": ["Canadians"],
 		"cityStateType": "Colonial American",
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
@@ -4089,12 +4021,12 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [175, 220, 224],
-		"cities": ["Montreal"]
+		"cities": ["Toronto"]
 	},
 
         {
-		"name": "Baghdad",
-		"adjective": ["Baghdad"],
+		"name": "Irak",
+		"adjective": ["Irakians"],
 		"cityStateType": "Middle Eastern",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4105,7 +4037,7 @@
 		"cities": ["Baghdad"]
 	},
 {
-		"name": "Jérusalemn",
+		"name": "Israël",
 		"adjective": ["Israeli"],
 		"cityStateType": "Middle Eastern",
 
@@ -4114,7 +4046,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 240, 12],
-		"cities": ["Beirut"]
+		"cities": ["Jérusalem"]
 	},
 
 
@@ -4132,7 +4064,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [170, 197, 242],
-		"cities": ["Kelmis"]
+		"cities": ["Dublin"]
 	},
 {
 		"name": "Tirana",
@@ -4144,11 +4076,11 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 236, 200],
-		"cities": ["Cospaia"]
+		"cities": ["Tirana"]
 	},
 {
-		"name": "Kulangsu",
-		"adjective": ["Kulangsu"],
+		"name": "Philippines",
+		"adjective": ["Philippans"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4156,11 +4088,11 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [82, 84, 222],
-		"cities": ["Kulangsu"]
+		"cities": ["Manilla"]
 	},
 {
-		"name": "Jorhat",
-		"adjective": ["Jorhat"],
+		"name": "Oman",
+		"adjective": ["Omani"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4168,7 +4100,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [239, 184, 252],
-		"cities": ["Jorhat"]
+		"cities": ["Muscat"]
 	},
 {
 		"name": "Libreville",
@@ -4180,13 +4112,13 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [173, 152, 113],
-		"cities": ["Arochukwu"]
+		"cities": ["Libreville"]
 	},
 
 
 {
-		"name": "Lingga",
-		"adjective": ["Lingga"],
+		"name": "Yemen",
+		"adjective": ["Yemeni"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4194,13 +4126,13 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 138, 119],
-		"cities": ["Lingga"]
+		"cities": ["Aden"]
 	},
 
 
 {
-		"name": "Khiva",
-		"adjective": ["Khiva"],
+		"name": "Kurdistan",
+		"adjective": ["Kurdes"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4208,12 +4140,12 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [232, 247, 215],
-		"cities": ["Khiva"]
+		"cities": ["Edessa"]
 	},
 
 {
-		"name": "Bushong",
-		"adjective": ["Bushong"],
+		"name": "Cuba",
+		"adjective": ["Cuban"],
 		"cityStateType": "Colonial American",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4221,12 +4153,12 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [50, 240, 82],
-		"cities": ["Bushong"]
+		"cities": ["Havana"]
 	},
 
 {
-		"name": "Papeete",
-		"adjective": ["Papeete"],
+		"name": "Suriname",
+		"adjective": ["Surinam"],
 		"cityStateType": "Polynessian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4234,11 +4166,23 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [73, 94, 130],
-		"cities": ["Papeete"]
+		"cities": ["Paramaribo"]
 	},
 	{
-		"name": "Formosa",
-		"adjective": ["Formosa"],
+		"name": "République de Sidi Ifni",
+		"adjective": ["Marocans"],
+		"cityStateType": "Polynessian",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [73, 94, 130],
+		"cities": ["Rabat"]
+	},
+	{
+		"name": "Nepal",
+		"adjective": ["Nepali"],
 		"cityStateType": "Asian",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4246,26 +4190,11 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [3, 169, 252],
-		"cities": ["Formosa"]
+		"cities": ["Kathmandu"]
 	},
 	{
-		"name": "Manchukuo",
-		"adjective": ["Manchukuo"],
-		"cityStateType": "Asian",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"outerColor": [0, 0, 0],
-		"innerColor": [252, 17, 13],
-		"cities": ["Manchukuo"]
-	},
-
-
-
-	{
-		"name": "Yorta Yorta",
-		"adjective": ["Yorta Yorta"],
+		"name": "Australia",
+		"adjective": ["Australians"],
 		"cityStateType": "Australian Aboriginal",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4274,20 +4203,7 @@
 		"uniques": ["[-10]% Strength <when attacking>"],
 		"outerColor": [0, 0, 0],
 		"innerColor": [252, 123, 3],
-		"cities": ["Murray River"]
-	},
-	{
-		"name": "Ngunnawal",
-		"adjective": ["Ngunnawal"],
-		"cityStateType": "Australian Aboriginal",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"uniques": ["[-10]% Strength <when attacking>"],
-		"outerColor": [0, 0, 0],
-		"innerColor": [38, 176, 255],
-		"cities": ["Canberra Custody"]
+		"cities": ["Canberra"]
 	},
 	{
 		"name": "Bundjalung",
@@ -4315,10 +4231,6 @@
 		"innerColor": [107, 255, 164],
 		"cities": ["Melbourne Area"]
 	},
-
-
-
-
 	{
 		"name": "Républiques Tribales d'Amazonie",
 		"adjective": ["Amazonians"],
@@ -4330,7 +4242,7 @@
 		"uniques": ["[+10]% growth [in all cities]"],
 		"outerColor": [0, 0, 0],
 		"innerColor": [94, 128, 191],
-		"cities": ["Zuni Pueblo"]
+		"cities": ["Manaus"]
 	},
 	{
 		"name": "Mexico",
@@ -4343,24 +4255,11 @@
 		"uniques": ["[+10]% growth [in all cities]"],
 		"outerColor": [0, 0, 0],
 		"innerColor": [165, 217, 172],
-		"cities": ["Hopi Villages"]
+		"cities": ["Mexico"]
 	},
 	{
-		"name": "Oklahoma",
-		"adjective": ["Oklahoma"],
-		"cityStateType": "Native American",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Perhaps, in another world, we could have been friends...",
-		"uniques": ["[+10]% growth [in all cities]"],
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 119, 82],
-		"cities": ["Oklahoma"]
-	},
-	{
-		"name": "Arequipa",
-		"adjective": ["Arequipa"],
+		"name": "Nicaraguy",
+		"adjective": ["Nicas"],
 		"cityStateType": "Native American",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4369,7 +4268,7 @@
 		"uniques": ["[+10]% growth [in all cities]"],
 		"outerColor": [0, 0, 0],
 		"innerColor": [158, 115, 103],
-		"cities": ["Arequipa"]
+		"cities": ["Managua"]
 	},
 	{
 		"name": "Panama",
