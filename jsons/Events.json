@@ -129,30 +129,30 @@
                 {
         "text": "The National-Humanist Front",
         "uniques": [
-        "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Gain [100] [Production] <in [Your] cities>"], "Triggers the following global alert: [Les Fascistes ont renversé le Gouvernement de Rostov]"
+        "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Gain [100] [Production] <in [Your] cities>", "Triggers the following global alert: [Les Fascistes ont renversé le Gouvernement de Rostov]"],
       },
       {
         "text": "The Russian National-Humanist Republic",
-        "uniques": ["Gain [20] [Happiness] <for [10] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Free Great Person", "Triggers the following global alert: [La Démocratie Nationale Humaniste est Proclamée à Rostov]"
+        "uniques": ["Gain [20] [Happiness] <for [10] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "Gain [-250] [Gold] <for [10] turns> <every [1] turns>", "Free Great Person", "Triggers the following global alert: [La Démocratie Nationale Humaniste est Proclamée à Rostov]"],
      },
      {
         "text": "The Eurasian Corporate State",
         "uniques": [  "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>",
-        "[2] Free Technologies", "Gain [100] [Production] <in [Your] cities>", "Free Great Person", "Triggers the following global alert: [Les Ambitions Eurasiatique des Oligarques Russes n’ont plus de limites !]"]
+        "[2] Free Technologies", "Gain [100] [Production] <in [Your] cities>", "Free Great Person", "Triggers the following global alert: [Les Ambitions Eurasiatique des Oligarques Russes n’ont plus de limites !]"],
     },
     {
         "text": "The Russian Empire Revival",
         "uniques": [
-        "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>", "[2] Free Social Policies", "Free Great Person", "Triggers the following global alert: [La Restauration Impériale prend place à Rostov]"]
+        "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [25] turns>", "[2] Free Social Policies", "Free Great Person", "Triggers the following global alert: [La Restauration Impériale prend place à Rostov]"],
     },
          {
         "text": "The National Revolution Triumphant",
-        "uniques": ["Remove [Liberty] and refund [110]% of its cost", "Gain [10] [Happiness] <for [25] turns>","[1] population [in all cities]", "Triggers the following global alert: [La Révolution Nationale Triomphe à Rostov]"]
+        "uniques": ["Remove [Liberty] and refund [110]% of its cost", "Gain [10] [Happiness] <for [25] turns>","[1] population [in all cities]", "Triggers the following global alert: [La Révolution Nationale Triomphe à Rostov]"],
     }
 ,
 {
         "text": "The Russian Accelerationist Movement Overthrown the Government",
-        "uniques": [ "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [100] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "[2] Free Technologies", "Gain [-250] [Gold] <for [25] turns> <every [1] turns>", "Gain [100] [Production] <in [Your] cities>", "Triggers the following global alert: [Les accelérationnistes prennent le pouvoir à Rostov, le Rêve Démocratique Russe est mort... La Réalité n’a plus de prises sur ces terres...]" ]
+        "uniques": [ "Remove [Liberty] and refund [150]% of its cost", "Gain [-25] [Happiness] <for [100] turns>", "[3] population [in all cities]", "[2] Free Social Policies", "[2] Free Technologies", "Gain [-250] [Gold] <for [25] turns> <every [1] turns>", "Gain [100] [Production] <in [Your] cities>", "Triggers the following global alert: [Les accelérationnistes prennent le pouvoir à Rostov, le Rêve Démocratique Russe est mort... La Réalité n’a plus de prises sur ces terres...]"],
     }
 
         ]
